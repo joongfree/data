@@ -19,7 +19,7 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0
   },
