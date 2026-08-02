@@ -7643,5 +7643,27 @@
     "certified": false,
     "reportCount": 0,
     "viewCount": 0
+  },
+  {
+    "id": 321,
+    "show": true,
+    "checkDate": "2026-08-02",
+    "category": "과일",
+    "name": "테스트",
+    "searchKeywords": [],
+    "buyUrl": "https://link.coupang.com/a/fClhbQazp6?abTestInfo=100412_group_A",
+    "productImageFile": "pr_260728_34.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_34.jpg",
+    "ingredientImageFile": "raw_260728_34.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260728_34.png",
+    "countries": [
+      "테스트"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "viewCount": 0
   }
 ]
