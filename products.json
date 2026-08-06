@@ -2684,7 +2684,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 0
+    "weeklyViews": 1
   },
   {
     "id": 95,
@@ -4036,7 +4036,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 2
+    "weeklyViews": 3
   },
   {
     "id": 141,
@@ -7579,7 +7579,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 0
+    "weeklyViews": 1
   },
   {
     "id": 264,
@@ -9060,7 +9060,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 0
+    "weeklyViews": 1
   },
   {
     "id": 315,
@@ -9234,6 +9234,6 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 14
+    "weeklyViews": 16
   }
 ]
