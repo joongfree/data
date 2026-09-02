@@ -27,7 +27,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 77
+    "weeklyViews": 0
   },
   {
     "id": 2,
@@ -55,7 +55,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 66
+    "weeklyViews": 0
   },
   {
     "id": 3,
@@ -84,7 +84,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 500
+    "weeklyViews": 0
   },
   {
     "id": 4,
@@ -113,7 +113,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 499
+    "weeklyViews": 0
   },
   {
     "id": 5,
@@ -127,7 +127,7 @@
       "신라면세트",
       "짜파게티세트"
     ],
-    "buyUrl": "https://link.coupang.com/a/ell5l7CNe8?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0zUfvEn6",
     "productImageFile": "pr_260606_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260606_05.jpg",
     "ingredientImageFile": "raw_260606_05.png",
@@ -143,7 +143,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 498
+    "weeklyViews": 0
   },
   {
     "id": 6,
@@ -170,7 +170,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 497
+    "weeklyViews": 0
   },
   {
     "id": 7,
@@ -200,7 +200,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 496
+    "weeklyViews": 0
   },
   {
     "id": 8,
@@ -227,7 +227,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 495
+    "weeklyViews": 0
   },
   {
     "id": 9,
@@ -257,7 +257,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 493
+    "weeklyViews": 0
   },
   {
     "id": 10,
@@ -286,7 +286,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 492
+    "weeklyViews": 0
   },
   {
     "id": 11,
@@ -315,7 +315,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 491
+    "weeklyViews": 0
   },
   {
     "id": 12,
@@ -344,7 +344,7 @@
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
-    "weeklyViews": 490
+    "weeklyViews": 0
   },
   {
     "id": 13,
@@ -1048,7 +1048,7 @@
       "된장쌈장",
       "양념장"
     ],
-    "buyUrl": "https://link.coupang.com/a/ezoBuuXCRU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0CukXPB6",
     "productImageFile": "pr_260614_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260614_06.jpg",
     "ingredientImageFile": "raw_260614_06.png",
@@ -1768,7 +1768,7 @@
       "화과자",
       "선물세트"
     ],
-    "buyUrl": "https://link.coupang.com/a/ezEVRRHW6S?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0EVFqW2C",
     "productImageFile": "pr_260614_31.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260614_31.jpg",
     "ingredientImageFile": "raw_260614_31.png",
@@ -2010,38 +2010,6 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 72,
-    "show": true,
-    "checkDate": "2026-06-14",
-    "category": "과자/간식",
-    "name": "넛츠그린 무설탕 다크 초콜릿 72% 22개입, 2개, 117g",
-    "searchKeywords": [
-      "무설탕초콜릿",
-      "다크초콜릿",
-      "저당초콜릿",
-      "초콜릿"
-    ],
-    "buyUrl": "https://link.coupang.com/a/ezIAAvUm8O?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260614_41.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260614_41.jpg",
-    "ingredientImageFile": "raw_260614_41.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260614_41.png",
-    "countries": [
-      "탄자니아",
-      "네덜란드",
-      "말레이시아",
-      "싱가포르"
-    ],
-    "rocket": true,
-    "curation": [
-      "저당"
-    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
@@ -2962,7 +2930,7 @@
       "생식빵",
       "빵"
     ],
-    "buyUrl": "https://link.coupang.com/a/eIrHC1vdmK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0I8Dkgj7",
     "productImageFile": "pr_260620_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_02.jpg",
     "ingredientImageFile": "raw_260620_02.png",
@@ -3523,7 +3491,7 @@
       "디저트",
       "미니케이크"
     ],
-    "buyUrl": "https://link.coupang.com/a/eIw9D0yZLE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0LnwQQto",
     "productImageFile": "pr_260620_21.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_21.jpg",
     "ingredientImageFile": "raw_260620_21.png",
@@ -3629,36 +3597,6 @@
     "weeklyViews": 0
   },
   {
-    "id": 127,
-    "show": true,
-    "checkDate": "2026-06-20",
-    "category": "베이커리/잼",
-    "name": "바른식방 통밀 모닝빵, 440g, 1개",
-    "searchKeywords": [
-      "모닝빵",
-      "통밀빵",
-      "아침빵",
-      "식사빵"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eIxW8vqfLM?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260620_25.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_25.jpg",
-    "ingredientImageFile": "raw_260620_25.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260620_25.png",
-    "countries": [
-      "터키",
-      "캐나다",
-      "독일",
-      "미국"
-    ],
-    "rocket": true,
-    "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
     "id": 128,
     "show": true,
     "checkDate": "2026-06-20",
@@ -3700,7 +3638,7 @@
       "우유빵",
       "아침빵"
     ],
-    "buyUrl": "https://link.coupang.com/a/eIyvJ725fg?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0V2ibFmK",
     "productImageFile": "pr_260620_27.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_27.jpg",
     "ingredientImageFile": "raw_260620_27.png",
@@ -3730,7 +3668,7 @@
       "디저트",
       "간식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eIyYxDdd0e?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0XMBibu0",
     "productImageFile": "pr_260620_28.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_28.jpg",
     "ingredientImageFile": "raw_260620_28.png",
@@ -4050,7 +3988,7 @@
       "오리슬라이스",
       "오리"
     ],
-    "buyUrl": "https://link.coupang.com/a/eICHzxrJf2?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZullJJBY",
     "productImageFile": "pr_260620_39.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_39.jpg",
     "ingredientImageFile": "raw_260620_39.png",
@@ -4079,7 +4017,7 @@
       "고추장불고기",
       "밀키트"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSkgEAv2bY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZxRxY17I",
     "productImageFile": "pr_260626_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_01.jpg",
     "ingredientImageFile": "raw_260626_01.png",
@@ -4089,33 +4027,6 @@
       "미국",
       "호주",
       "이스라엘"
-    ],
-    "rocket": true,
-    "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 143,
-    "show": true,
-    "checkDate": "2026-06-26",
-    "category": "간편식/냉동/냉장",
-    "name": "거대곰탕 (냉동)",
-    "searchKeywords": [
-      "곰탕",
-      "사골곰탕",
-      "국물요리",
-      "냉동국"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eSkPB35hbE?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260626_02.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_02.jpg",
-    "ingredientImageFile": "raw_260626_02.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260626_02.png",
-    "countries": [
-      "한국"
     ],
     "rocket": true,
     "curation": [],
@@ -4136,7 +4047,7 @@
       "냉동볶음밥",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSk6RY3HyK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZGhtt3yC",
     "productImageFile": "pr_260626_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_03.jpg",
     "ingredientImageFile": "raw_260626_03.png",
@@ -4163,7 +4074,7 @@
       "부산어묵",
       "오뎅"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSlAAigEge?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZM4y7U8y",
     "productImageFile": "pr_260626_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_04.jpg",
     "ingredientImageFile": "raw_260626_04.png",
@@ -4192,7 +4103,7 @@
       "돼지햄",
       "샌드위치햄"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSlSC9rQu4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZPfZbnwW",
     "productImageFile": "pr_260626_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_05.jpg",
     "ingredientImageFile": "raw_260626_05.png",
@@ -4221,7 +4132,7 @@
       "냉동만두",
       "만두"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSmeoA7ygK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gHZRJ0VoeO",
     "productImageFile": "pr_260626_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_06.jpg",
     "ingredientImageFile": "raw_260626_06.png",
@@ -4250,7 +4161,7 @@
       "돈가스",
       "냉장돈까스"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSms5kKEk8?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0pF6MgRU",
     "productImageFile": "pr_260626_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_07.jpg",
     "ingredientImageFile": "raw_260626_07.png",
@@ -4282,7 +4193,7 @@
       "고기반찬",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSmTJ8vCJE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0rNpElki",
     "productImageFile": "pr_260626_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_08.jpg",
     "ingredientImageFile": "raw_260626_08.png",
@@ -4309,7 +4220,7 @@
       "닭튀김",
       "냉동치킨"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSm94DTsXY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH0tCwq0zc",
     "productImageFile": "pr_260626_09.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_09.jpg",
     "ingredientImageFile": "raw_260626_09.png",
@@ -4319,33 +4230,6 @@
       "호주",
       "미국",
       "캐나다"
-    ],
-    "rocket": true,
-    "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 151,
-    "show": true,
-    "checkDate": "2026-06-26",
-    "category": "간편식/냉동/냉장",
-    "name": "곰곰 케이준 감자튀김(냉동), 650g, 1개",
-    "searchKeywords": [
-      "감자튀김",
-      "케이준감자",
-      "냉동감자",
-      "프렌치프라이"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eSnxUChVjo?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260626_10.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_10.jpg",
-    "ingredientImageFile": "raw_260626_10.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260626_10.png",
-    "countries": [
-      "벨기에"
     ],
     "rocket": true,
     "curation": [],
@@ -4366,7 +4250,7 @@
       "떡볶이",
       "떡"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSoymz3vAi?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH01G7lcfQ",
     "productImageFile": "pr_260626_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_11.jpg",
     "ingredientImageFile": "raw_260626_11.png",
@@ -4393,7 +4277,7 @@
       "냉동떡볶이",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSoUBbSB88?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH03kpu5rU",
     "productImageFile": "pr_260626_12.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_12.jpg",
     "ingredientImageFile": "raw_260626_12.png",
@@ -4424,7 +4308,7 @@
       "냉동순대",
       "분식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSpeXf9HFY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH061VOg3h",
     "productImageFile": "pr_260626_13.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_13.jpg",
     "ingredientImageFile": "raw_260626_13.png",
@@ -4451,7 +4335,7 @@
       "한우냉면",
       "냉면세트"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSpDGoCfe0?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH098IzbhY",
     "productImageFile": "pr_260626_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_14.jpg",
     "ingredientImageFile": "raw_260626_14.png",
@@ -4481,7 +4365,7 @@
       "스파게티",
       "파스타"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSp2ZB6TCe?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1gBd0v3Q",
     "productImageFile": "pr_260626_15.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_15.jpg",
     "ingredientImageFile": "raw_260626_15.png",
@@ -4511,7 +4395,7 @@
       "냉동피자",
       "마스카포네피자"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSqPLt6UjA?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1i9y8zYa",
     "productImageFile": "pr_260626_16.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_16.jpg",
     "ingredientImageFile": "raw_260626_16.png",
@@ -4544,7 +4428,7 @@
       "간식",
       "소시지빵"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSrpVMoUXA?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1kZB60Si",
     "productImageFile": "pr_260626_17.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_17.jpg",
     "ingredientImageFile": "raw_260626_17.png",
@@ -4574,7 +4458,7 @@
       "냉동탕수육",
       "중식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSrHomLUtw?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1mM4S5fg",
     "productImageFile": "pr_260626_18.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_18.jpg",
     "ingredientImageFile": "raw_260626_18.png",
@@ -4603,7 +4487,7 @@
       "냉동짜장면",
       "쌀짜장면"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSr3YloLDM?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1oBfs7xI",
     "productImageFile": "pr_260626_19.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_19.jpg",
     "ingredientImageFile": "raw_260626_19.png",
@@ -4633,7 +4517,7 @@
       "고기완자",
       "전"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSslZHxF00?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1shLM9Ce",
     "productImageFile": "pr_260626_20.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_20.jpg",
     "ingredientImageFile": "raw_260626_20.png",
@@ -4660,7 +4544,7 @@
       "냉동닭가슴살",
       "닭가슴살간식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eStnOc6hhI?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH1vP5DF6X",
     "productImageFile": "pr_260626_21.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_21.jpg",
     "ingredientImageFile": "raw_260626_21.png",
@@ -4688,7 +4572,7 @@
       "죽",
       "보양죽"
     ],
-    "buyUrl": "https://link.coupang.com/a/eStClTtur6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4jYc6osC",
     "productImageFile": "pr_260626_22.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_22.jpg",
     "ingredientImageFile": "raw_260626_22.png",
@@ -4715,7 +4599,7 @@
       "전통죽",
       "죽"
     ],
-    "buyUrl": "https://link.coupang.com/a/eStM0ZOCYe?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4ndPZz88",
     "productImageFile": "pr_260626_23.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_23.jpg",
     "ingredientImageFile": "raw_260626_23.png",
@@ -4742,7 +4626,7 @@
       "전통죽",
       "죽"
     ],
-    "buyUrl": "https://link.coupang.com/a/eStZ5YOBZ6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4qKcHGuq",
     "productImageFile": "pr_260626_24.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_24.jpg",
     "ingredientImageFile": "raw_260626_24.png",
@@ -4769,7 +4653,7 @@
       "스프",
       "즉석스프"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSua31FJXE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4sS4BQ4G",
     "productImageFile": "pr_260626_25.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_25.jpg",
     "ingredientImageFile": "raw_260626_25.png",
@@ -4799,7 +4683,7 @@
       "닭고기죽",
       "죽"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSukRWolUa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4ElWZVKe",
     "productImageFile": "pr_260626_26.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_26.jpg",
     "ingredientImageFile": "raw_260626_26.png",
@@ -4826,7 +4710,7 @@
       "즉석죽",
       "쌀죽"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSuvYv1ia4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4GCEVFo4",
     "productImageFile": "pr_260626_27.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_27.jpg",
     "ingredientImageFile": "raw_260626_27.png",
@@ -4854,7 +4738,7 @@
       "고기완자",
       "미트볼요리"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSu9gK8Oku?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4IS5TLEa",
     "productImageFile": "pr_260626_28.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_28.jpg",
     "ingredientImageFile": "raw_260626_28.png",
@@ -4881,7 +4765,7 @@
       "생선구이",
       "간편생선"
     ],
-    "buyUrl": "https://link.coupang.com/a/eSwmEH0I0W?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4KY6nMES",
     "productImageFile": "pr_260626_29.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_29.jpg",
     "ingredientImageFile": "raw_260626_29.png",
@@ -4908,7 +4792,7 @@
       "대만식샌드위치",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYOZFQb9VY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4M0onFTM",
     "productImageFile": "pr_260629_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_01.jpg",
     "ingredientImageFile": "raw_260629_01.png",
@@ -4941,7 +4825,7 @@
       "샌드위치",
       "카야잼샌드"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYQwykMDo4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4OOUC9Ho",
     "productImageFile": "pr_260629_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_02.jpg",
     "ingredientImageFile": "raw_260629_02.png",
@@ -4972,7 +4856,7 @@
       "샌드위치",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYQVAf6x0m?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4QuwHFQa",
     "productImageFile": "pr_260629_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_03.jpg",
     "ingredientImageFile": "raw_260629_03.png",
@@ -5002,7 +4886,7 @@
       "풀드포크",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYRbN0gW7g?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH4SrUh7ZY",
     "productImageFile": "pr_260629_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_04.jpg",
     "ingredientImageFile": "raw_260629_04.png",
@@ -5021,100 +4905,6 @@
     "weeklyViews": 0
   },
   {
-    "id": 175,
-    "show": true,
-    "checkDate": "2026-06-29",
-    "category": "샐러드/델리",
-    "name": "엔보그 저당 미나리 페스토 샐러드, 423g, 1개",
-    "searchKeywords": [
-      "미나리샐러드",
-      "페스토샐러드",
-      "저당샐러드",
-      "샐러드"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eYRTihtgAe?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260629_05.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_05.jpg",
-    "ingredientImageFile": "raw_260629_05.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260629_05.png",
-    "countries": [
-      "한국",
-      "이탈리아",
-      "미국",
-      "네덜란드"
-    ],
-    "rocket": true,
-    "curation": [
-      "저당"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 176,
-    "show": true,
-    "checkDate": "2026-06-29",
-    "category": "샐러드/델리",
-    "name": "엔보그 저당 문어 치미추리 샐러드",
-    "searchKeywords": [
-      "문어샐러드",
-      "치미추리샐러드",
-      "저당샐러드",
-      "샐러드"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eYR7PFWeMS?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260629_06.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_06.jpg",
-    "ingredientImageFile": "raw_260629_06.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260629_06.png",
-    "countries": [
-      "마다가스카르",
-      "한국",
-      "이탈리아"
-    ],
-    "rocket": true,
-    "curation": [
-      "저당"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 177,
-    "show": true,
-    "checkDate": "2026-06-29",
-    "category": "샐러드/델리",
-    "name": "엔보그 저당 연어 스테이크 샐러드, 388g, 1개",
-    "searchKeywords": [
-      "연어샐러드",
-      "연어스테이크",
-      "저당샐러드",
-      "샐러드"
-    ],
-    "buyUrl": "https://link.coupang.com/a/eYSnFSoHtY?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260629_07.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_07.jpg",
-    "ingredientImageFile": "raw_260629_07.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260629_07.png",
-    "countries": [
-      "칠레",
-      "베트남",
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [
-      "저당"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
     "id": 178,
     "show": true,
     "checkDate": "2026-06-29",
@@ -5126,7 +4916,7 @@
       "바베큐닭가슴살",
       "닭가슴살간식"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYSCiiSYq4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH7ypkmwOy",
     "productImageFile": "pr_260629_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_08.jpg",
     "ingredientImageFile": "raw_260629_08.png",
@@ -5155,7 +4945,7 @@
       "크리스피닭가슴살",
       "냉동닭가슴살"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYSPeA8iAu?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH7CDfYYxg",
     "productImageFile": "pr_260629_09.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_09.jpg",
     "ingredientImageFile": "raw_260629_09.png",
@@ -5185,7 +4975,7 @@
       "일본식덮밥",
       "냉동가츠동"
     ],
-    "buyUrl": "https://link.coupang.com/a/eYS1nVFcEC?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH7JmsIs1s",
     "productImageFile": "pr_260629_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260629_10.jpg",
     "ingredientImageFile": "raw_260629_10.png",
@@ -5214,7 +5004,7 @@
       "캔옥수수",
       "옥수수"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkk7uYkPbo?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH7LoYGUrk",
     "productImageFile": "pr_260712_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_01.jpg",
     "ingredientImageFile": "raw_260712_01.png",
@@ -5243,7 +5033,7 @@
       "스팸",
       "캔햄"
     ],
-    "buyUrl": "https://link.coupang.com/a/fklXnSU8Bw?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH79SvoEM0",
     "productImageFile": "pr_260712_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_02.jpg",
     "ingredientImageFile": "raw_260712_02.png",
@@ -5272,7 +5062,7 @@
       "햄",
       "델리햄"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkniGUykH6?abTestInfo=100412_group_A\n",
+    "buyUrl": "https://link.coupang.com/a/gH8qnlu5BI\n",
     "productImageFile": "pr_260712_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_03.jpg",
     "ingredientImageFile": "raw_260712_03.png",
@@ -5299,7 +5089,7 @@
       "동물복지햄",
       "햄"
     ],
-    "buyUrl": "https://link.coupang.com/a/fknABzYYRU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH8umIy4nA",
     "productImageFile": "pr_260712_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_04.jpg",
     "ingredientImageFile": "raw_260712_04.png",
@@ -5328,7 +5118,7 @@
       "작은공기밥",
       "백미밥"
     ],
-    "buyUrl": "https://link.coupang.com/a/fknO58DdKe?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gH8wGhpYpE",
     "productImageFile": "pr_260712_05.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_05.png",
     "ingredientImageFile": "raw_260712_05.png",
@@ -5357,7 +5147,7 @@
       "백미밥",
       "흰쌀밥"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkn0CO1iuW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaqoZ9unc",
     "productImageFile": "pr_260712_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_06.jpg",
     "ingredientImageFile": "raw_260712_06.png",
@@ -5386,7 +5176,7 @@
       "잡곡밥",
       "건강밥"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkn9pQixMW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIar9vKmei",
     "productImageFile": "pr_260712_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_07.jpg",
     "ingredientImageFile": "raw_260712_07.png",
@@ -5415,7 +5205,7 @@
       "즉석밥",
       "잡곡밥"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkomStLOOO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIav1bUy7w",
     "productImageFile": "pr_260712_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_08.jpg",
     "ingredientImageFile": "raw_260712_08.png",
@@ -5444,7 +5234,7 @@
       "다이어트밥",
       "건강밥"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkoA9QaHim?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIax2zIA6m",
     "productImageFile": "pr_260712_09.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_09.png",
     "ingredientImageFile": "raw_260712_09.png",
@@ -5474,7 +5264,7 @@
       "매운카레",
       "카레"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkoZ2s9AZg?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaz3pB68y",
     "productImageFile": "pr_260712_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_10.jpg",
     "ingredientImageFile": "raw_260712_10.png",
@@ -5502,7 +5292,7 @@
       "짜장소스",
       "짜장"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkpolN8c9c?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaCTLk4pE",
     "productImageFile": "pr_260712_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_11.jpg",
     "ingredientImageFile": "raw_260712_11.png",
@@ -5529,7 +5319,7 @@
       "짜장소스",
       "짜장"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkpPu5VRmu?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaFcLQA2f",
     "productImageFile": "pr_260712_12.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_12.jpg",
     "ingredientImageFile": "raw_260712_12.png",
@@ -5556,7 +5346,7 @@
       "카레",
       "제주카레"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkp2tXfAaq?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaGDgQas0",
     "productImageFile": "pr_260712_13.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_13.png",
     "ingredientImageFile": "raw_260712_13.png",
@@ -5583,7 +5373,7 @@
       "잔치국수면",
       "국수"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkqg271t9M?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaIocx8h2",
     "productImageFile": "pr_260712_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_14.jpg",
     "ingredientImageFile": "raw_260712_14.png",
@@ -5614,7 +5404,7 @@
       "잡채당면",
       "잡채면"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkqtZz6g44?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaMRYfAgm",
     "productImageFile": "pr_260712_15.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_15.jpg",
     "ingredientImageFile": "raw_260712_15.png",
@@ -5643,7 +5433,7 @@
       "복숭아통조림",
       "과일통조림"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkqOr5tnuC?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaOKuGqqG",
     "productImageFile": "pr_260712_16.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_16.png",
     "ingredientImageFile": "raw_260712_16.png",
@@ -5672,7 +5462,7 @@
       "병아리콩캔",
       "콩"
     ],
-    "buyUrl": "https://link.coupang.com/a/fkq2f1Q3vU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIaQ6hSyUS",
     "productImageFile": "pr_260712_17.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260712_17.jpg",
     "ingredientImageFile": "raw_260712_17.png",
@@ -5694,14 +5484,14 @@
     "show": true,
     "checkDate": "2026-07-14",
     "category": "김치/반찬",
-    "name": "종가 오래오래 맛있는 열무김치, 1.5kg, 1개",
+    "name": "종가 오래오래 맛있는 열무김치, 1.5kg, 2개",
     "searchKeywords": [
       "열무김치",
       "열무",
       "김치",
       "여름김치"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnIlqcArcW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIa7m9YpUG",
     "productImageFile": "pr_260714_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_01.jpg",
     "ingredientImageFile": "raw_260714_01.png",
@@ -5728,7 +5518,7 @@
       "파김치반찬",
       "김치"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnIBBOevuu?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbfCNskBU",
     "productImageFile": "pr_260714_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_02.jpg",
     "ingredientImageFile": "raw_260714_02.png",
@@ -5755,7 +5545,7 @@
       "김치",
       "반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnIM1Fhkjs?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbhwFVRIG",
     "productImageFile": "pr_260714_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_03.jpg",
     "ingredientImageFile": "raw_260714_03.png",
@@ -5782,7 +5572,7 @@
       "무김치",
       "김치"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnI116fLwa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbkK6dYe5",
     "productImageFile": "pr_260714_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_04.jpg",
     "ingredientImageFile": "raw_260714_04.png",
@@ -5809,38 +5599,11 @@
       "배추김치",
       "김치"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnJbZhJXJk?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbmO5krqC",
     "productImageFile": "pr_260714_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_05.jpg",
     "ingredientImageFile": "raw_260714_05.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_05.png",
-    "countries": [
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 203,
-    "show": true,
-    "checkDate": "2026-07-14",
-    "category": "김치/반찬",
-    "name": "대상 종가 석박지, 1개, 900g\r",
-    "searchKeywords": [
-      "석박지",
-      "무김치",
-      "깍두기",
-      "김치"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fnJmW7ee5s?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260714_06.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_06.jpg",
-    "ingredientImageFile": "raw_260714_06.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_06.png",
     "countries": [
       "한국"
     ],
@@ -5863,7 +5626,7 @@
       "밑반찬",
       "반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnJx8LtLie?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbqBgGlMG",
     "productImageFile": "pr_260714_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_07.jpg",
     "ingredientImageFile": "raw_260714_07.png",
@@ -5890,38 +5653,11 @@
       "김치",
       "김치반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnJE46SM2u?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIbsQLj6Em",
     "productImageFile": "pr_260714_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_08.jpg",
     "ingredientImageFile": "raw_260714_08.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_08.png",
-    "countries": [
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 206,
-    "show": true,
-    "checkDate": "2026-07-14",
-    "category": "김치/반찬",
-    "name": "종가 오이소박이, 800g, 1개",
-    "searchKeywords": [
-      "오이소박이",
-      "오이김치",
-      "김치",
-      "여름김치"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fnJLTy67nE?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260714_09.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_09.jpg",
-    "ingredientImageFile": "raw_260714_09.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_09.png",
     "countries": [
       "한국"
     ],
@@ -5944,7 +5680,7 @@
       "밑반찬",
       "반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnJ4ZOSJH2?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIcMXaS6PQ",
     "productImageFile": "pr_260714_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_10.jpg",
     "ingredientImageFile": "raw_260714_10.png",
@@ -5972,40 +5708,11 @@
       "김",
       "조미김"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnK0JuPhAa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIcOCd77D2",
     "productImageFile": "pr_260714_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_11.jpg",
     "ingredientImageFile": "raw_260714_11.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_11.png",
-    "countries": [
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 209,
-    "show": true,
-    "checkDate": "2026-07-14",
-    "category": "김치/반찬",
-    "name": "금복식품 완도산 파래김 100매 생김 전장김 무조미김 햇김, 1개, 180g",
-    "searchKeywords": [
-      "파래김",
-      "생김",
-      "전장김",
-      "무조미김"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fnLdYPJlwi?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260714_12.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_12.jpg",
-    "ingredientImageFile": "raw_260714_12.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_12.png",
     "countries": [
       "한국"
     ],
@@ -6030,7 +5737,7 @@
       "장아찌",
       "밑반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnL0pP0A1Y?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIcU6vCFdA",
     "productImageFile": "pr_260714_13.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_13.jpg",
     "ingredientImageFile": "raw_260714_13.png",
@@ -6057,7 +5764,7 @@
       "나물",
       "나물반찬"
     ],
-    "buyUrl": "https://link.coupang.com/a/fnMmnJYGVE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIcWXGAD7Y",
     "productImageFile": "pr_260714_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_14.jpg",
     "ingredientImageFile": "raw_260714_14.png",
@@ -6086,7 +5793,7 @@
       "손질양파",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsdqsKEDee?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIc1sF0Ivs",
     "productImageFile": "pr_260717_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_01.jpg",
     "ingredientImageFile": "raw_260717_01.png",
@@ -6115,7 +5822,7 @@
       "슬라이스양파",
       "손질채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsfPX10I6C?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIc3Wz0o2e",
     "productImageFile": "pr_260717_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_02.jpg",
     "ingredientImageFile": "raw_260717_02.png",
@@ -6144,7 +5851,7 @@
       "손질양파",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsf8CWtjZA?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIc6WZVhlc",
     "productImageFile": "pr_260717_03.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_03.png",
     "ingredientImageFile": "raw_260717_03.png",
@@ -6173,7 +5880,7 @@
       "슬라이스양파",
       "양파"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgfvFedwX?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdd0w48tw",
     "productImageFile": "pr_260717_04.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_04.png",
     "ingredientImageFile": "raw_260717_04.png",
@@ -6202,7 +5909,7 @@
       "채소",
       "식재료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgpPSWtOK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdgcir5EG",
     "productImageFile": "pr_260717_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_05.jpg",
     "ingredientImageFile": "raw_260717_05.png",
@@ -6231,7 +5938,7 @@
       "손질대파",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgysguQ1c?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdhTgUC5Y",
     "productImageFile": "pr_260717_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_06.jpg",
     "ingredientImageFile": "raw_260717_06.png",
@@ -6260,7 +5967,7 @@
       "친환경대파",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgIznHh4S?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdjYqtX7k",
     "productImageFile": "pr_260717_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_07.jpg",
     "ingredientImageFile": "raw_260717_07.png",
@@ -6289,7 +5996,7 @@
       "손질대파",
       "냉동채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgRM4osg0?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdlotO4Oa",
     "productImageFile": "pr_260717_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_08.jpg",
     "ingredientImageFile": "raw_260717_08.png",
@@ -6318,7 +6025,7 @@
       "국내산채소",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsgYRroJFY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdmwqIivA",
     "productImageFile": "pr_260717_09.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_09.jpg",
     "ingredientImageFile": "raw_260717_09.png",
@@ -6347,7 +6054,7 @@
       "친환경버섯",
       "국내산버섯"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsg7Cz5kCi?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdqB4OXue",
     "productImageFile": "pr_260717_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_10.jpg",
     "ingredientImageFile": "raw_260717_10.png",
@@ -6376,7 +6083,7 @@
       "국내산오이",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fshtEBaoBo?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdr8cJO6m",
     "productImageFile": "pr_260717_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_11.jpg",
     "ingredientImageFile": "raw_260717_11.png",
@@ -6405,7 +6112,7 @@
       "국내산감자",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fshDpotqcC?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdt1Bn260",
     "productImageFile": "pr_260717_12.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_12.jpg",
     "ingredientImageFile": "raw_260717_12.png",
@@ -6434,7 +6141,7 @@
       "감자",
       "국내산감자"
     ],
-    "buyUrl": "https://link.coupang.com/a/fshLEmkKmy?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdv5ApmDc",
     "productImageFile": "pr_260717_13.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_13.jpg",
     "ingredientImageFile": "raw_260717_13.png",
@@ -6463,7 +6170,7 @@
       "손질당근",
       "국내산당근"
     ],
-    "buyUrl": "https://link.coupang.com/a/fshUbbuZS8?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdxDjtojc",
     "productImageFile": "pr_260717_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_14.jpg",
     "ingredientImageFile": "raw_260717_14.png",
@@ -6492,7 +6199,7 @@
       "매운고추",
       "국내산고추"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsh1758DJc?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdznB6ERE",
     "productImageFile": "pr_260717_15.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_15.jpg",
     "ingredientImageFile": "raw_260717_15.png",
@@ -6521,7 +6228,7 @@
       "손질마늘",
       "국내산마늘"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsisslexpY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdBxnPSsm",
     "productImageFile": "pr_260717_16.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_16.jpg",
     "ingredientImageFile": "raw_260717_16.png",
@@ -6550,7 +6257,7 @@
       "배추",
       "쌈채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsiGKZovIW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdEL2jVtY",
     "productImageFile": "pr_260717_17.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_17.png",
     "ingredientImageFile": "raw_260717_17.png",
@@ -6579,7 +6286,7 @@
       "콩두부",
       "부침두부"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsi0kDhUCO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdGAEfnSS",
     "productImageFile": "pr_260717_18.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_18.jpg",
     "ingredientImageFile": "raw_260717_18.png",
@@ -6608,7 +6315,7 @@
       "두부",
       "찌개용두부"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsi8ApKfMO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdHV6SO60",
     "productImageFile": "pr_260717_19.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_19.jpg",
     "ingredientImageFile": "raw_260717_19.png",
@@ -6637,7 +6344,7 @@
       "무농약콩나물",
       "나물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsjso92tIy?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdJjW8sZE",
     "productImageFile": "pr_260717_20.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_20.jpg",
     "ingredientImageFile": "raw_260717_20.png",
@@ -6666,7 +6373,7 @@
       "콩",
       "잡곡"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsjE4cWyuO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdLiushoq",
     "productImageFile": "pr_260717_21.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_21.jpg",
     "ingredientImageFile": "raw_260717_21.png",
@@ -6695,71 +6402,13 @@
       "콩",
       "콩류"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsj5kzqBLo?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdM0MmT9h",
     "productImageFile": "pr_260717_22.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_22.jpg",
     "ingredientImageFile": "raw_260717_22.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260717_22.png",
     "countries": [
       "캐나다"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 234,
-    "show": true,
-    "checkDate": "2026-07-17",
-    "category": "채소/쌀/잡곡",
-    "name": "농협 대한민곡 백태, 1kg, 1개",
-    "searchKeywords": [
-      "백태",
-      "흰콩",
-      "콩",
-      "콩류"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fskiGw4eUS?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260717_23.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_23.jpg",
-    "ingredientImageFile": "raw_260717_23.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260717_23.png",
-    "countries": [
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 235,
-    "show": true,
-    "checkDate": "2026-07-17",
-    "category": "채소/쌀/잡곡",
-    "name": "국내산 깐 강낭콩, 200g, 1개",
-    "searchKeywords": [
-      "강낭콩",
-      "깐강낭콩",
-      "콩",
-      "콩류"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fsku3kCguW?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260717_24.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_24.jpg",
-    "ingredientImageFile": "raw_260717_24.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260717_24.png",
-    "countries": [
-      "한국"
     ],
     "rocket": true,
     "curation": [
@@ -6782,7 +6431,7 @@
       "콩",
       "냉동채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fskGMFz8JU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdSpBAxzw",
     "productImageFile": "pr_260717_25.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_25.jpg",
     "ingredientImageFile": "raw_260717_25.png",
@@ -6811,7 +6460,7 @@
       "쌀밥",
       "국내산쌀"
     ],
-    "buyUrl": "https://link.coupang.com/a/fskRZUiS28?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIdUe2YsQ8",
     "productImageFile": "pr_260717_26.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_26.jpg",
     "ingredientImageFile": "raw_260717_26.png",
@@ -6840,7 +6489,7 @@
       "백미",
       "쌀"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsk28TfACO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gId18Wg6PA",
     "productImageFile": "pr_260717_27.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_27.jpg",
     "ingredientImageFile": "raw_260717_27.png",
@@ -6869,7 +6518,7 @@
       "쌀",
       "국내산쌀"
     ],
-    "buyUrl": "https://link.coupang.com/a/fslbyCggkS?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gId4xpdyP6",
     "productImageFile": "pr_260717_28.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_28.jpg",
     "ingredientImageFile": "raw_260717_28.png",
@@ -6898,7 +6547,7 @@
       "잡곡",
       "국산곡물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fslmIyr4O4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gId6MMgqv6",
     "productImageFile": "pr_260717_29.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_29.jpg",
     "ingredientImageFile": "raw_260717_29.png",
@@ -6927,7 +6576,7 @@
       "떡재료",
       "곡물가루"
     ],
-    "buyUrl": "https://link.coupang.com/a/fslvQ9YdH2?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gId8rR3PuS",
     "productImageFile": "pr_260717_30.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_30.jpg",
     "ingredientImageFile": "raw_260717_30.png",
@@ -6956,7 +6605,7 @@
       "깨",
       "국산참깨"
     ],
-    "buyUrl": "https://link.coupang.com/a/fslIA7rS3w?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeaJr2IZE",
     "productImageFile": "pr_260717_31.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_31.jpg",
     "ingredientImageFile": "raw_260717_31.png",
@@ -6985,7 +6634,7 @@
       "귀리죽",
       "곡물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fslQZ5q83o?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeczX8nQq",
     "productImageFile": "pr_260717_32.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_32.jpg",
     "ingredientImageFile": "raw_260717_32.png",
@@ -7014,7 +6663,7 @@
       "씻은쌀",
       "유기농쌀"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsl0kDlp6a?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeefqQd1o",
     "productImageFile": "pr_260717_33.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_33.jpg",
     "ingredientImageFile": "raw_260717_33.png",
@@ -7043,7 +6692,7 @@
       "슈퍼푸드",
       "씨앗류"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsmUZTN3sq?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIef2xxSDs",
     "productImageFile": "pr_260717_34.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_34.jpg",
     "ingredientImageFile": "raw_260717_34.png",
@@ -7072,7 +6721,7 @@
       "향신료",
       "허브"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsm8FBp1t6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIehZE3G9Y",
     "productImageFile": "pr_260717_35.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_35.jpg",
     "ingredientImageFile": "raw_260717_35.png",
@@ -7101,7 +6750,7 @@
       "후추그라인더",
       "향신료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsniGbcdwG?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIejPposPQ",
     "productImageFile": "pr_260717_36.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_36.jpg",
     "ingredientImageFile": "raw_260717_36.png",
@@ -7130,7 +6779,7 @@
       "소금",
       "조미료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsny7kgJqe?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeleX9284",
     "productImageFile": "pr_260717_37.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_37.jpg",
     "ingredientImageFile": "raw_260717_37.png",
@@ -7159,7 +6808,7 @@
       "소금",
       "조미료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsnJsr8poW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIentIM7z2",
     "productImageFile": "pr_260717_38.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_38.jpg",
     "ingredientImageFile": "raw_260717_38.png",
@@ -7188,7 +6837,7 @@
       "조미료",
       "양념"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsnX9SM4M8?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIepGU6s9I",
     "productImageFile": "pr_260717_39.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_39.jpg",
     "ingredientImageFile": "raw_260717_39.png",
@@ -7218,7 +6867,7 @@
       "통들깨",
       "국산들기름"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsocA7D8mG?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIerVZBsHc",
     "productImageFile": "pr_260717_40.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_40.jpg",
     "ingredientImageFile": "raw_260717_40.png",
@@ -7247,7 +6896,7 @@
       "깨기름",
       "양념"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsoqsfWuiW?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIexaRwCya",
     "productImageFile": "pr_260717_41.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_41.png",
     "ingredientImageFile": "raw_260717_41.png",
@@ -7276,7 +6925,7 @@
       "깨",
       "국산깨"
     ],
-    "buyUrl": "https://link.coupang.com/a/fsoS9TcSjc?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeyNFFoBM",
     "productImageFile": "pr_260717_42.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_42.jpg",
     "ingredientImageFile": "raw_260717_42.png",
@@ -7305,7 +6954,7 @@
       "소금",
       "천일염"
     ],
-    "buyUrl": "https://link.coupang.com/a/fspa3ivzrg?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeAKfMus0",
     "productImageFile": "pr_260717_43.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_43.jpg",
     "ingredientImageFile": "raw_260717_43.png",
@@ -7334,7 +6983,7 @@
       "향신료",
       "향신료가루"
     ],
-    "buyUrl": "https://link.coupang.com/a/fspl8Dxqyy?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeEpe8h9E",
     "productImageFile": "pr_260717_44.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_44.jpg",
     "ingredientImageFile": "raw_260717_44.png",
@@ -7363,7 +7012,7 @@
       "허브",
       "향신료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fspyiCGtZA?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeFU3mfGC",
     "productImageFile": "pr_260717_45.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_45.jpg",
     "ingredientImageFile": "raw_260717_45.png",
@@ -7392,7 +7041,7 @@
       "소스",
       "튀김소스"
     ],
-    "buyUrl": "https://link.coupang.com/a/fspQ2QYX1w?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIeHhOYwEu",
     "productImageFile": "pr_260717_46.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_46.jpg",
     "ingredientImageFile": "raw_260717_46.png",
@@ -7402,35 +7051,6 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 258,
-    "show": true,
-    "checkDate": "2026-07-22",
-    "category": "과일",
-    "name": "돌 스위티오 바나나, 1kg 내외, 1개",
-    "searchKeywords": [
-      "바나나",
-      "과일",
-      "수입과일",
-      "스위티오바나나"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fzsdvajX3s?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260722_01.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_01.jpg",
-    "ingredientImageFile": "raw_260722_01.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_01.png",
-    "countries": [
-      "필리핀"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
@@ -7448,7 +7068,7 @@
       "생토마토",
       "채소"
     ],
-    "buyUrl": "https://link.coupang.com/a/fzsyOdbJbo?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIe0DfciIe",
     "productImageFile": "pr_260722_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_02.jpg",
     "ingredientImageFile": "raw_260722_02.png",
@@ -7477,7 +7097,7 @@
       "토마토",
       "과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fzsFF2T1wa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIe2e5gQTt",
     "productImageFile": "pr_260722_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_03.jpg",
     "ingredientImageFile": "raw_260722_03.png",
@@ -7506,7 +7126,7 @@
       "베리류",
       "냉동과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fzsOUAHK4i?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIe7NHUpjw",
     "productImageFile": "pr_260722_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_04.jpg",
     "ingredientImageFile": "raw_260722_04.png",
@@ -7535,7 +7155,7 @@
       "페루아보카도",
       "과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fzsZzbxp9g?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIe9SaUHQa",
     "productImageFile": "pr_260722_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_05.jpg",
     "ingredientImageFile": "raw_260722_05.png",
@@ -7564,7 +7184,7 @@
       "키위",
       "과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fzs9PewCyr?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfbHOZvDE",
     "productImageFile": "pr_260722_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_06.jpg",
     "ingredientImageFile": "raw_260722_06.png",
@@ -7593,7 +7213,7 @@
       "과일",
       "여름과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fztlLTWyBM?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfdnDKUii",
     "productImageFile": "pr_260722_07.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_07.png",
     "ingredientImageFile": "raw_260722_07.png",
@@ -7622,71 +7242,13 @@
       "국내산사과",
       "과일"
     ],
-    "buyUrl": "https://link.coupang.com/a/fztuEXH628?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfe5FRQ7w",
     "productImageFile": "pr_260722_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_08.jpg",
     "ingredientImageFile": "raw_260722_08.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_08.png",
     "countries": [
       "한국"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 266,
-    "show": true,
-    "checkDate": "2026-07-22",
-    "category": "과일",
-    "name": "농협 유명산지 당도선별 부드러운 백도복숭아, 1.25kg(4~6입), 1박스",
-    "searchKeywords": [
-      "백도복숭아",
-      "복숭아",
-      "당도선별복숭아",
-      "과일"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fztGMFXdCe?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260722_09.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_09.jpg",
-    "ingredientImageFile": "raw_260722_09.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_09.png",
-    "countries": [
-      "한국"
-    ],
-    "rocket": true,
-    "curation": [
-      "무첨가"
-    ],
-    "advertisement": false,
-    "certified": false,
-    "reportCount": 0,
-    "weeklyViews": 0
-  },
-  {
-    "id": 267,
-    "show": true,
-    "checkDate": "2026-07-22",
-    "category": "과일",
-    "name": "고당도 미국 체리, 300g, 1개",
-    "searchKeywords": [
-      "체리",
-      "미국체리",
-      "생체리",
-      "과일"
-    ],
-    "buyUrl": "https://link.coupang.com/a/fztOOTbpAW?abTestInfo=100412_group_A",
-    "productImageFile": "pr_260722_10.jpg",
-    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_10.jpg",
-    "ingredientImageFile": "raw_260722_10.png",
-    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_10.png",
-    "countries": [
-      "미국"
     ],
     "rocket": true,
     "curation": [
@@ -7709,7 +7271,7 @@
       "대란",
       "동물복지계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCi2Z9LdHU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfnmq0ROe",
     "productImageFile": "pr_260723_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_01.jpg",
     "ingredientImageFile": "raw_260723_01.png",
@@ -7738,7 +7300,7 @@
       "달걀",
       "무항생제계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCi5UBWCui?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfpQ6Roce",
     "productImageFile": "pr_260723_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_02.jpg",
     "ingredientImageFile": "raw_260723_02.png",
@@ -7767,7 +7329,7 @@
       "달걀",
       "무항생제계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCi763RO9c?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfuZUzi0q",
     "productImageFile": "pr_260723_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_03.jpg",
     "ingredientImageFile": "raw_260723_03.png",
@@ -7796,7 +7358,7 @@
       "달걀",
       "신선계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCi9H0sjmK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfwqJGYeq",
     "productImageFile": "pr_260723_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_04.jpg",
     "ingredientImageFile": "raw_260723_04.png",
@@ -7825,7 +7387,7 @@
       "계란",
       "달걀"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjcsVs4my?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfx1edvum",
     "productImageFile": "pr_260723_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_05.jpg",
     "ingredientImageFile": "raw_260723_05.png",
@@ -7854,7 +7416,7 @@
       "계란",
       "간편식"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjeS3YJNI?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfzFWmfZs",
     "productImageFile": "pr_260723_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_06.jpg",
     "ingredientImageFile": "raw_260723_06.png",
@@ -7883,7 +7445,7 @@
       "달걀",
       "무항생제계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjgnn9AQK?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfCvjIBe8",
     "productImageFile": "pr_260723_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_07.jpg",
     "ingredientImageFile": "raw_260723_07.png",
@@ -7912,7 +7474,7 @@
       "계란",
       "무항생제계란"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjitjBZbE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfIfxQ04G",
     "productImageFile": "pr_260723_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_08.jpg",
     "ingredientImageFile": "raw_260723_08.png",
@@ -7941,7 +7503,7 @@
       "한우",
       "국거리용"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjmLf1GPk?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfRnWcy6e",
     "productImageFile": "pr_260723_09.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_09.jpg",
     "ingredientImageFile": "raw_260723_09.png",
@@ -7970,7 +7532,7 @@
       "다짐고기",
       "한우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjokfbMjY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIfTahyiM8",
     "productImageFile": "pr_260723_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_10.jpg",
     "ingredientImageFile": "raw_260723_10.png",
@@ -7999,7 +7561,7 @@
       "불고기용고기",
       "한우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjsqXdaXQ?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIf2rxIRLE",
     "productImageFile": "pr_260723_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_11.jpg",
     "ingredientImageFile": "raw_260723_11.png",
@@ -8028,7 +7590,7 @@
       "등심구이",
       "한우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjuQi3Acu?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIf3LFznHg",
     "productImageFile": "pr_260723_12.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_12.jpg",
     "ingredientImageFile": "raw_260723_12.png",
@@ -8057,7 +7619,7 @@
       "안심구이",
       "한우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjxU3lfnU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhsbqaKFo",
     "productImageFile": "pr_260723_13.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_13.jpg",
     "ingredientImageFile": "raw_260723_13.png",
@@ -8086,7 +7648,7 @@
       "소고기구이",
       "소고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjzpneviS?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIht7rbw4W",
     "productImageFile": "pr_260723_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_14.jpg",
     "ingredientImageFile": "raw_260723_14.png",
@@ -8115,7 +7677,7 @@
       "짜장용고기",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjCCcPFpk?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhvXb4HZY",
     "productImageFile": "pr_260723_15.png",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_15.png",
     "ingredientImageFile": "raw_260723_15.png",
@@ -8144,7 +7706,7 @@
       "뒷다리살",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjEdo8mHY?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhymOiG60",
     "productImageFile": "pr_260723_16.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_16.jpg",
     "ingredientImageFile": "raw_260723_16.png",
@@ -8173,7 +7735,7 @@
       "찌개고기",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjFNK4Z3c?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhAqO5X3Y",
     "productImageFile": "pr_260723_17.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_17.jpg",
     "ingredientImageFile": "raw_260723_17.png",
@@ -8202,7 +7764,7 @@
       "불고기용고기",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjG0wMscm?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhCndnQ8O",
     "productImageFile": "pr_260723_18.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260723_18.jpg",
     "ingredientImageFile": "raw_260723_18.png",
@@ -8231,7 +7793,7 @@
       "돼지고기수육",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjIoZCKKO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhEHgrB5o",
     "productImageFile": "pr_260724_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260724_01.jpg",
     "ingredientImageFile": "raw_260724_01.png",
@@ -8260,7 +7822,7 @@
       "앞다리살",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjJstft8K?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhGvXLrXw",
     "productImageFile": "pr_260728_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_01.jpg",
     "ingredientImageFile": "raw_260728_01.png",
@@ -8289,7 +7851,7 @@
       "구이용고기",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjMkPAlwa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhIbP6gbk",
     "productImageFile": "pr_260728_02.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_02.jpg",
     "ingredientImageFile": "raw_260728_02.png",
@@ -8318,7 +7880,7 @@
       "돼지고기구이",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjOginnCS?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhJUTIhNY",
     "productImageFile": "pr_260728_03.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_03.jpg",
     "ingredientImageFile": "raw_260728_03.png",
@@ -8347,7 +7909,7 @@
       "돼지고기구이",
       "한돈"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjPVKWC1A?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhLAs1Yjs",
     "productImageFile": "pr_260728_04.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_04.jpg",
     "ingredientImageFile": "raw_260728_04.png",
@@ -8376,7 +7938,7 @@
       "닭고기",
       "손질닭"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjSJbNaqO?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhOltMDVk",
     "productImageFile": "pr_260728_05.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_05.jpg",
     "ingredientImageFile": "raw_260728_05.png",
@@ -8405,7 +7967,7 @@
       "무항생제닭",
       "닭고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjUbnvCFg?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhP6qZK32",
     "productImageFile": "pr_260728_06.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_06.jpg",
     "ingredientImageFile": "raw_260728_06.png",
@@ -8434,7 +7996,7 @@
       "삼계탕용닭",
       "닭고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjVXigVt6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhRXVRSxg",
     "productImageFile": "pr_260728_07.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_07.jpg",
     "ingredientImageFile": "raw_260728_07.png",
@@ -8463,7 +8025,7 @@
       "삼계탕",
       "닭고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCjYbJlHGe?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhWrAtmfY",
     "productImageFile": "pr_260728_08.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_08.jpg",
     "ingredientImageFile": "raw_260728_08.png",
@@ -8492,7 +8054,7 @@
       "무항생제닭",
       "닭고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCj0vF1Lfo?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIhZeKJrGu",
     "productImageFile": "pr_260728_09.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_09.jpg",
     "ingredientImageFile": "raw_260728_09.png",
@@ -8521,7 +8083,7 @@
       "무항생제닭",
       "닭고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCj3deJiKG?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIh0YWD2SO",
     "productImageFile": "pr_260728_10.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_10.jpg",
     "ingredientImageFile": "raw_260728_10.png",
@@ -8550,7 +8112,7 @@
       "오리슬라이스",
       "오리"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCj5lwm64O?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIh4PTRVsq",
     "productImageFile": "pr_260728_11.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_11.jpg",
     "ingredientImageFile": "raw_260728_11.png",
@@ -8579,7 +8141,7 @@
       "오리백숙",
       "오리"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCj6Q2jk1Q?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIh6J4Nn1o",
     "productImageFile": "pr_260728_12.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_12.jpg",
     "ingredientImageFile": "raw_260728_12.jpg",
@@ -8608,7 +8170,7 @@
       "오리구이",
       "오리"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCj9dYvcHI?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIh8s057Aq",
     "productImageFile": "pr_260728_13.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_13.jpg",
     "ingredientImageFile": "raw_260728_13.png",
@@ -8637,7 +8199,7 @@
       "냉동양고기",
       "램고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkgbWqfam?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiaOfQ5zo",
     "productImageFile": "pr_260728_14.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_14.jpg",
     "ingredientImageFile": "raw_260728_14.png",
@@ -8666,7 +8228,7 @@
       "램갈비",
       "양고기"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkjEBGzZs?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIicPwlPuC",
     "productImageFile": "pr_260728_15.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_15.jpg",
     "ingredientImageFile": "raw_260728_15.png",
@@ -8695,7 +8257,7 @@
       "구운김",
       "김"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkqhsEWK4?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIid3kRZPE",
     "productImageFile": "pr_260728_16.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_16.jpg",
     "ingredientImageFile": "raw_260728_16.png",
@@ -8724,7 +8286,7 @@
       "완도미역",
       "건미역"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkrEmAaZ2?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIifdJZmU0",
     "productImageFile": "pr_260728_17.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_17.jpg",
     "ingredientImageFile": "raw_260728_17.png",
@@ -8754,7 +8316,7 @@
       "냉동새우",
       "손질새우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCktx7YdG0?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIigsfsUz6",
     "productImageFile": "pr_260728_18.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_18.jpg",
     "ingredientImageFile": "raw_260728_18.png",
@@ -8783,7 +8345,7 @@
       "횟감연어",
       "연어"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkuSdTlcq?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIihJHqWQK",
     "productImageFile": "pr_260728_19.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_19.jpg",
     "ingredientImageFile": "raw_260728_19.png",
@@ -8812,7 +8374,7 @@
       "가시제거고등어",
       "냉동생선"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkwPVPK3w?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIijdHaGw8",
     "productImageFile": "pr_260728_20.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_20.jpg",
     "ingredientImageFile": "raw_260728_20.png",
@@ -8841,7 +8403,7 @@
       "건미역",
       "미역국재료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkyzYjNts?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiksjJpqS",
     "productImageFile": "pr_260728_21.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_21.jpg",
     "ingredientImageFile": "raw_260728_21.png",
@@ -8871,7 +8433,7 @@
       "멸치",
       "건어물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkFx8h9xs?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIim3ZeJfo",
     "productImageFile": "pr_260728_22.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_22.jpg",
     "ingredientImageFile": "raw_260728_22.png",
@@ -8900,7 +8462,7 @@
       "오징어",
       "냉동오징어"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkGZEZLci?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIioWNmpe8",
     "productImageFile": "pr_260728_23.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_23.jpg",
     "ingredientImageFile": "raw_260728_23.png",
@@ -8929,7 +8491,7 @@
       "건오징어",
       "구룡포오징어"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkKLnJ6my?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIirijCyBM",
     "productImageFile": "pr_260728_24.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_24.jpg",
     "ingredientImageFile": "raw_260728_24.png",
@@ -8958,7 +8520,7 @@
       "조개",
       "해산물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkPQu2R88?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIisRB3MUS",
     "productImageFile": "pr_260728_25.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_25.jpg",
     "ingredientImageFile": "raw_260728_25.png",
@@ -8987,7 +8549,7 @@
       "북어",
       "생선살"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkUqU5CLc?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIitYjP3U4",
     "productImageFile": "pr_260728_26.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_26.jpg",
     "ingredientImageFile": "raw_260728_26.png",
@@ -9016,7 +8578,7 @@
       "바지락",
       "조개살"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkWeqzpTM?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiu78rUVo",
     "productImageFile": "pr_260728_27.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_27.jpg",
     "ingredientImageFile": "raw_260728_27.png",
@@ -9045,7 +8607,7 @@
       "밑반찬멸치",
       "건어물"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCkXHVIotU?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiwwiosTc",
     "productImageFile": "pr_260728_28.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_28.jpg",
     "ingredientImageFile": "raw_260728_28.png",
@@ -9074,7 +8636,7 @@
       "가시제거고등어",
       "냉동생선"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCk0dXh6o8?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIixWWlPmm",
     "productImageFile": "pr_260728_29.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_29.jpg",
     "ingredientImageFile": "raw_260728_29.png",
@@ -9103,7 +8665,7 @@
       "생선살",
       "이유식생선"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCk1UmoDxQ?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiz6HKl1o",
     "productImageFile": "pr_260728_30.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_30.jpg",
     "ingredientImageFile": "raw_260728_30.png",
@@ -9132,7 +8694,7 @@
       "냉동새우",
       "손질새우"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCk3Dl0HjE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiBSnr7VQ",
     "productImageFile": "pr_260728_31.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_31.jpg",
     "ingredientImageFile": "raw_260728_31.png",
@@ -9161,7 +8723,7 @@
       "냉동전복",
       "전복살"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCk8Zx2Vl6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiC15mbVk",
     "productImageFile": "pr_260728_32.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_32.jpg",
     "ingredientImageFile": "raw_260728_32.png",
@@ -9190,7 +8752,7 @@
       "완도다시마",
       "국물재료"
     ],
-    "buyUrl": "https://link.coupang.com/a/fCldAHs8NE?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiEDmupKm",
     "productImageFile": "pr_260728_33.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_33.jpg",
     "ingredientImageFile": "raw_260728_33.png",
@@ -9204,7 +8766,7 @@
     ],
     "advertisement": false,
     "certified": false,
-    "reportCount": 1,
+    "reportCount": 0,
     "weeklyViews": 0
   },
   {
@@ -9219,7 +8781,7 @@
       "냉동다슬기",
       "올갱이"
     ],
-    "buyUrl": "https://link.coupang.com/a/fClhbQazp6?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiFSfOgkS",
     "productImageFile": "pr_260728_34.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260728_34.jpg",
     "ingredientImageFile": "raw_260728_34.png",
@@ -9233,7 +8795,7 @@
     ],
     "advertisement": false,
     "certified": false,
-    "reportCount": 2,
+    "reportCount": 0,
     "weeklyViews": 0
   },
   {
@@ -9248,7 +8810,7 @@
       "검은콩두유",
       "두유"
     ],
-    "buyUrl": "https://link.coupang.com/a/f2DuJj9bMa?abTestInfo=100412_group_A",
+    "buyUrl": "https://link.coupang.com/a/gIiHbws3e8",
     "productImageFile": "pr_260808_01.jpg",
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260808_01.jpg",
     "ingredientImageFile": "raw_260808_01.jpg",
@@ -9259,6 +8821,35 @@
     "rocket": true,
     "curation": [
       "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": "",
+    "show": true,
+    "checkDate": "2026-09-02",
+    "category": "과일",
+    "name": "돌 코리아 바나나, 1kg 내외, 1개",
+    "searchKeywords": [
+      "바나나",
+      "생바나나",
+      "수입바나나",
+      "필리핀바나나"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gIkv64rWjA",
+    "productImageFile": "pr_260902_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260902_01.jpg",
+    "ingredientImageFile": "raw_260902_01.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260902_01.png",
+    "countries": [
+      "필리핀"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
     ],
     "advertisement": false,
     "certified": false,
