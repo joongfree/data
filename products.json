@@ -8828,7 +8828,7 @@
     "weeklyViews": 0
   },
   {
-    "id": "",
+    "id": 322,
     "show": true,
     "checkDate": "2026-09-02",
     "category": "과일",
@@ -8848,6 +8848,93 @@
       "필리핀"
     ],
     "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 323,
+    "show": true,
+    "checkDate": "2026-09-03",
+    "category": "채소/쌀/잡곡",
+    "name": "속까지 선별한 국내산 배추 1/2통",
+    "searchKeywords": [
+      "배추",
+      "반통배추",
+      "국산배추",
+      "생배추"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gJyN2aV4xg",
+    "productImageFile": "pr_260903_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260903_01.jpg",
+    "ingredientImageFile": "raw_260903_01.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260903_01.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 324,
+    "show": true,
+    "checkDate": "2026-09-03",
+    "category": "채소/쌀/잡곡",
+    "name": "두메 강원도 영월 고랭지 절임배추 월 화 수 목 금 출고 HACCP인증 5키로 10키로 20키로",
+    "searchKeywords": [
+      "절임배추",
+      "고랭지배추",
+      "김장배추",
+      "강원도배추"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gJzePSIH7I",
+    "productImageFile": "pr_260903_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260903_02.jpg",
+    "ingredientImageFile": "raw_260903_02.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260903_02.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 325,
+    "show": true,
+    "checkDate": "2026-09-03",
+    "category": "채소/쌀/잡곡",
+    "name": "국내산 알배기배추 알배추 쌈배추 특 상",
+    "searchKeywords": [
+      "알배기배추",
+      "알배추",
+      "쌈배추",
+      "미니배추"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gJznK24SI0",
+    "productImageFile": "pr_260903_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260903_03.jpg",
+    "ingredientImageFile": "raw_260903_03.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260903_03.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
     "curation": [
       "무첨가"
     ],
