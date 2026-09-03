@@ -3971,7 +3971,7 @@
     "curation": [
       "저가공"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -6269,7 +6269,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
