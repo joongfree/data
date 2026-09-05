@@ -3196,10 +3196,10 @@
     "category": "베이커리/잼",
     "name": "아티제 바니 샌드 세트",
     "searchKeywords": [
-      "샌드위치",
-      "샌드세트",
-      "간편식",
-      "브런치"
+      "쿠키샌드",
+      "크림샌드",
+      "캐릭터쿠키",
+      "디저트세트"
     ],
     "buyUrl": "https://link.coupang.com/a/gjTcU3uF7Q",
     "productImageFile": "pr_260620_11.jpg",
@@ -3796,7 +3796,7 @@
     ],
     "rocket": true,
     "curation": [
-      "저가공"
+      "무첨가"
     ],
     "advertisement": false,
     "certified": false,
@@ -3825,7 +3825,7 @@
     ],
     "rocket": true,
     "curation": [
-      "저가공"
+      "무첨가"
     ],
     "advertisement": false,
     "certified": false,
@@ -3881,7 +3881,7 @@
     ],
     "rocket": true,
     "curation": [
-      "저가공"
+      "무첨가"
     ],
     "advertisement": false,
     "certified": false,
@@ -6269,7 +6269,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -8937,6 +8937,969 @@
     "rocket": false,
     "curation": [
       "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 326,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "채소/쌀/잡곡",
+    "name": "청정원 1등급 국산콩 두부 부침찌개 겸용, 300g, 2개",
+    "searchKeywords": [
+      "국산콩두부",
+      "부침두부",
+      "찌개두부",
+      "콩두부"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNh0tniMBU",
+    "productImageFile": "pr_260905_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_01.jpg",
+    "ingredientImageFile": "raw_260905_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 327,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "채소/쌀/잡곡",
+    "name": "행복한콩 국산콩 100% 부침찌개 겸용 두부, 300g, 2개",
+    "searchKeywords": [
+      "국산콩두부",
+      "부침두부",
+      "찌개두부",
+      "콩두부"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNiEnhqdP2",
+    "productImageFile": "pr_260905_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_02.jpg",
+    "ingredientImageFile": "raw_260905_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 328,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "채소/쌀/잡곡",
+    "name": "즐거운동행 국산콩 촌두부, 380g, 1개",
+    "searchKeywords": [
+      "국산콩두부",
+      "촌두부",
+      "찌개두부",
+      "콩두부"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNi5vAPnSS",
+    "productImageFile": "pr_260905_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_03.jpg",
+    "ingredientImageFile": "raw_260905_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 329,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "당일구운 100% 통밀빵 백프로 순수 통밀 저당 다이어트빵 비건빵 아침식사대용빵, 1kg, 1개",
+    "searchKeywords": [
+      "통밀빵",
+      "저당빵",
+      "다이어트빵",
+      "비건빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNjr0LgSTk",
+    "productImageFile": "pr_260905_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_04.jpg",
+    "ingredientImageFile": "raw_260905_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_04.jpg",
+    "countries": [
+      "미국",
+      "이탈리아",
+      "스페인",
+      "태국",
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 330,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "발효종 쌀 오곡현미 비건빵 호밀크랜베리빵 VEGAN 노버터 노밀가루 아침식사대용빵, 182g, 2개",
+    "searchKeywords": [
+      "비건빵",
+      "호밀빵",
+      "현미빵",
+      "크랜베리빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNjI0P79OK",
+    "productImageFile": "pr_260905_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_05.png",
+    "ingredientImageFile": "raw_260905_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_05.jpg",
+    "countries": [
+      "한국",
+      "프랑스",
+      "독일",
+      "미국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 331,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "호밀 넛츠 깜빠뉴 (비건 견과류 저당 건강빵), 250g, 1개",
+    "searchKeywords": [
+      "호밀빵",
+      "깜빠뉴",
+      "견과류빵",
+      "비건빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNj3Dhjw5s",
+    "productImageFile": "pr_260905_06.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_06.png",
+    "ingredientImageFile": "raw_260905_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_06.jpg",
+    "countries": [
+      "미국",
+      "캐나다",
+      "호주",
+      "터키"
+    ],
+    "rocket": false,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 332,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "프렌떼 호밀 깜빠뉴 (냉동), 435g, 1개",
+    "searchKeywords": [
+      "호밀빵",
+      "깜빠뉴",
+      "냉동빵",
+      "통밀빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNkvRBU8CO",
+    "productImageFile": "pr_260905_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_07.jpg",
+    "ingredientImageFile": "raw_260905_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_07.jpg",
+    "countries": [
+      "프랑스",
+      "미국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 333,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "농협 고기왕만두 (냉동)",
+    "searchKeywords": [
+      "고기만두",
+      "왕만두",
+      "냉동만두",
+      "냉동왕만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNkXpox6Fo",
+    "productImageFile": "pr_260905_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_08.jpg",
+    "ingredientImageFile": "raw_260905_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_08.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 334,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "해태제과 고향만두 (냉동), 1.8kg, 1개",
+    "searchKeywords": [
+      "고향만두",
+      "냉동만두",
+      "왕만두",
+      "물만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNlpku6LC0",
+    "productImageFile": "pr_260905_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_09.jpg",
+    "ingredientImageFile": "raw_260905_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_09.jpg",
+    "countries": [
+      "호주",
+      "미국",
+      "한국",
+      "인도"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 335,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "만두보국 프리미엄 수제만두 1.4kg, 1개",
+    "searchKeywords": [
+      "수제만두",
+      "냉동만두",
+      "왕만두",
+      "고기만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNlM90mnRI",
+    "productImageFile": "pr_260905_10.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_10.png",
+    "ingredientImageFile": "raw_260905_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_10.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": true,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 336,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "비비고 얇은피 진한 김치만두 (냉동), 1.12kg, 1개",
+    "searchKeywords": [
+      "김치만두",
+      "냉동만두",
+      "왕만두",
+      "얇은피만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNmbPlxIbI",
+    "productImageFile": "pr_260905_11.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_11.jpg",
+    "ingredientImageFile": "raw_260905_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_11.jpg",
+    "countries": [
+      "호주",
+      "미국",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 337,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "곰곰 김치왕만두 (냉동), 2.24kg, 1개",
+    "searchKeywords": [
+      "김치만두",
+      "왕만두",
+      "냉동만두",
+      "김치왕만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNmEZC8OfQ",
+    "productImageFile": "pr_260905_12.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_12.jpg",
+    "ingredientImageFile": "raw_260905_12.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_12.jpg",
+    "countries": [
+      "한국",
+      "호주",
+      "미국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 338,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "횡성축협한우 프리미엄 소고기 유니짜장, 6개, 150g",
+    "searchKeywords": [
+      "짜장소스",
+      "유니짜장",
+      "소고기짜장",
+      "즉석짜장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNm34AkxVY",
+    "productImageFile": "pr_260905_13.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_13.png",
+    "ingredientImageFile": "raw_260905_13.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_13.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 339,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "베베쿡 처음먹는 덮밥 소스, 짜장, 200g, 3개",
+    "searchKeywords": [
+      "짜장소스",
+      "유아짜장",
+      "아기짜장",
+      "덮밥소스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNntRlHYBM",
+    "productImageFile": "pr_260905_14.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_14.jpg",
+    "ingredientImageFile": "raw_260905_14.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_14.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 340,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "통조림/즉석밥/면",
+    "name": "삼육 우리밀 감자짜장면 128g, 16개",
+    "searchKeywords": [
+      "짜장면",
+      "감자짜장",
+      "우리밀짜장면",
+      "즉석짜장면"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNnLDe7R00",
+    "productImageFile": "pr_260905_15.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_15.jpg",
+    "ingredientImageFile": "raw_260905_15.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_15.jpg",
+    "countries": [
+      "독일",
+      "한국",
+      "말레이시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 341,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "통조림/즉석밥/면",
+    "name": "쌀짜장면117g 국내산 비건 채식 무오신채 건강라면 [원산지:국산(경상남도)], 10개",
+    "searchKeywords": [
+      "쌀짜장면",
+      "비건라면",
+      "채식라면",
+      "짜장라면"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNn9UQmJzM",
+    "productImageFile": "pr_260905_16.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_16.jpg",
+    "ingredientImageFile": "raw_260905_16.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_16.jpg",
+    "countries": [
+      "한국",
+      "네덜란드",
+      "폴란드",
+      "프랑스",
+      "말레이시아"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 342,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "이연복 목란 짜장면 2인분 주문즉시배송, 1개",
+    "searchKeywords": [
+      "짜장면",
+      "즉석짜장면",
+      "냉동짜장면",
+      "유니짜장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNowAG2um4",
+    "productImageFile": "pr_260905_17.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_17.jpg",
+    "ingredientImageFile": "raw_260905_17.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_17.jpg",
+    "countries": [
+      "호주",
+      "미국",
+      "한국",
+      "폴란드"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 343,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "울아빠짜장 30년전통 직접 볶은 볶음 수제 짜장 짜장면 소스 밀키트",
+    "searchKeywords": [
+      "짜장소스",
+      "수제짜장",
+      "볶음짜장",
+      "짜장면밀키트"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNoNJxaYj6",
+    "productImageFile": "pr_260905_18.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_18.png",
+    "ingredientImageFile": "raw_260905_18.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_18.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 344,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "네니아 순살 등심 돈까스 우리밀 20p (냉동), 1.2kg, 1개",
+    "searchKeywords": [
+      "돈가스",
+      "등심돈가스",
+      "냉동돈가스",
+      "순살돈가스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNo8GOTido",
+    "productImageFile": "pr_260905_19.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_19.jpg",
+    "ingredientImageFile": "raw_260905_19.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_19.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 345,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "하이포크 동물복지 인증 한돈 꼬마 돈까스 (냉동), 500g, 1개",
+    "searchKeywords": [
+      "돈가스",
+      "꼬마돈가스",
+      "냉동돈가스",
+      "한돈돈가스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNpuMRybnM",
+    "productImageFile": "pr_260905_20.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_20.jpg",
+    "ingredientImageFile": "raw_260905_20.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_20.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 346,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "목우촌 두번 튀겨 더욱 바삭한 한입돈까스 (냉동), 500g, 1개",
+    "searchKeywords": [
+      "돈가스",
+      "한입돈가스",
+      "냉동돈가스",
+      "미니돈가스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNpE7ueA1c",
+    "productImageFile": "pr_260905_21.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_21.jpg",
+    "ingredientImageFile": "raw_260905_21.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_21.jpg",
+    "countries": [
+      "한국",
+      "호주",
+      "미국",
+      "말레이시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 347,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "진쿡 국내산 한돈 슈퍼 치즈 돈까스(소스미포함), 20개, 200g",
+    "searchKeywords": [
+      "돈가스",
+      "치즈돈가스",
+      "한돈돈가스",
+      "냉동돈가스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNpWxBt1Nc",
+    "productImageFile": "pr_260905_22.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_22.png",
+    "ingredientImageFile": "raw_260905_22.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_22.jpg",
+    "countries": [
+      "한국",
+      "독일",
+      "미국",
+      "캐나다",
+      "말레이시아"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 348,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "간편식/냉동/냉장",
+    "name": "유혜광 수제 안심 돈까스 10장 (총5팩)(소스없음)",
+    "searchKeywords": [
+      "돈가스",
+      "안심돈가스",
+      "수제돈가스",
+      "냉동돈가스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNqIJSBWMe",
+    "productImageFile": "pr_260905_23.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_23.png",
+    "ingredientImageFile": "raw_260905_23.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_23.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "호주",
+      "캐나다"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 349,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "콩콩당 국산 땅콩버터(국산 땅콩 100%), 500g, 1개",
+    "searchKeywords": [
+      "땅콩버터",
+      "국산땅콩",
+      "땅콩잼",
+      "피넛버터"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNri6lWXpQ",
+    "productImageFile": "pr_260905_24.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_24.jpg",
+    "ingredientImageFile": "raw_260905_24.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_24.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 350,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "유기샘 순수 땅콩버터, 140g, 1개",
+    "searchKeywords": [
+      "땅콩버터",
+      "국산땅콩",
+      "땅콩잼",
+      "피넛버터"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNrFMvVlJc",
+    "productImageFile": "pr_260905_25.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_25.jpg",
+    "ingredientImageFile": "raw_260905_25.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_25.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 351,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "크레이지피넛 땅콩버터 크런치 무설탕 100% 국산 땅콩 버터 잼, 500g, 1개",
+    "searchKeywords": [
+      "땅콩버터",
+      "크런치땅콩버터",
+      "무설탕땅콩버터",
+      "국산땅콩버터"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNrWWnD380",
+    "productImageFile": "pr_260905_26.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_26.jpg",
+    "ingredientImageFile": "raw_260905_26.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_26.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 352,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "베이커리/잼",
+    "name": "옳곡 국내산 땅콩버터 미니컵 스무스, 20g, 8개",
+    "searchKeywords": [
+      "땅콩버터",
+      "미니땅콩버터",
+      "스무스땅콩버터",
+      "국산땅콩버터"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNsf3fzWr6",
+    "productImageFile": "pr_260905_27.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_27.jpg",
+    "ingredientImageFile": "raw_260905_27.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_27.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 353,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "샘표 국산콩 양조간장, 860ml, 1개",
+    "searchKeywords": [
+      "양조간장",
+      "국산콩간장",
+      "진간장",
+      "국간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNsyxWdhOS",
+    "productImageFile": "pr_260905_28.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_28.png",
+    "ingredientImageFile": "raw_260905_28.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_28.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 354,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "더해담 국산콩 양조간장 100, 1개, 350ml",
+    "searchKeywords": [
+      "양조간장",
+      "국산콩간장",
+      "진간장",
+      "국간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNsORJ5WMe",
+    "productImageFile": "pr_260905_29.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_29.jpg",
+    "ingredientImageFile": "raw_260905_29.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_29.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 355,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "순창문옥례식품 우리콩 한식 진간장, 1L, 1개",
+    "searchKeywords": [
+      "진간장",
+      "국산콩간장",
+      "양조간장",
+      "국간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNs5Kfz4KG",
+    "productImageFile": "pr_260905_30.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_30.jpg",
+    "ingredientImageFile": "raw_260905_30.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_30.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 356,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "김구원선생 국산콩으로 만든 전통 국간장, 1개, 300ml",
+    "searchKeywords": [
+      "국간장",
+      "국산콩간장",
+      "전통간장",
+      "재래간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNtkU4laxg",
+    "productImageFile": "pr_260905_31.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_31.jpg",
+    "ingredientImageFile": "raw_260905_31.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_31.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 357,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "광이원 3년숙성 전통 생간장, 300ml, 1개",
+    "searchKeywords": [
+      "생간장",
+      "전통간장",
+      "숙성간장",
+      "국간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNtxJaJSsS",
+    "productImageFile": "pr_260905_32.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_32.jpg",
+    "ingredientImageFile": "raw_260905_32.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_32.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 358,
+    "show": true,
+    "checkDate": "2026-09-05",
+    "category": "장/양념/소스",
+    "name": "자연숙성 재래간장 조선간장 1L 100%국내산 무첨가물 무색소 가야진장",
+    "searchKeywords": [
+      "조선간장",
+      "재래간장",
+      "국간장",
+      "전통간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gNtHuyi8RM",
+    "productImageFile": "pr_260905_33.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260905_33.jpg",
+    "ingredientImageFile": "raw_260905_33.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260905_33.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
     ],
     "advertisement": false,
     "certified": false,
