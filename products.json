@@ -9905,5 +9905,94 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 359,
+    "show": true,
+    "checkDate": "2026-09-06",
+    "category": "과자/간식",
+    "name": "해태제과 사브레, 252g, 1개",
+    "searchKeywords": [
+      "사브레",
+      "사브레과자",
+      "버터사브레",
+      "비스킷"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gOK1lvBA60",
+    "productImageFile": "pr_260906_01.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260906_01.png",
+    "ingredientImageFile": "raw_260906_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260906_01.jpg",
+    "countries": [
+      "미국",
+      "말레이시아",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 360,
+    "show": true,
+    "checkDate": "2026-09-06",
+    "category": "과자/간식",
+    "name": "해태제과 구운감자, 24g, 2개",
+    "searchKeywords": [
+      "구운감자",
+      "구운감자과자",
+      "감자과자",
+      "스낵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gOLrLs2S0O",
+    "productImageFile": "pr_260906_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260906_02.jpg",
+    "ingredientImageFile": "raw_260906_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260906_02.jpg",
+    "countries": [
+      "독일",
+      "한국",
+      "태국",
+      "말레이시아",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 361,
+    "show": true,
+    "checkDate": "2026-09-06",
+    "category": "과자/간식",
+    "name": "오리온 도도한 나쵸 치즈맛, 155g, 3개",
+    "searchKeywords": [
+      "나쵸",
+      "치즈나쵸",
+      "나쵸칩",
+      "스낵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gOLPAA1oAe",
+    "productImageFile": "pr_260906_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260906_03.jpg",
+    "ingredientImageFile": "raw_260906_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260906_03.jpg",
+    "countries": [
+      "호주",
+      "말레이시아",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
