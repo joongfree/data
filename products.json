@@ -5663,7 +5663,7 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -9238,7 +9238,7 @@
     ],
     "rocket": false,
     "curation": [],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -9989,6 +9989,88 @@
       "미국"
     ],
     "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 362,
+    "show": true,
+    "checkDate": "2026-09-07",
+    "category": "음료/커피/유제품",
+    "name": "곰곰 국산 원료만을 사용하여 고소한 미숫가루, 1kg, 1개",
+    "searchKeywords": [
+      "미숫가루",
+      "미숫가루음료",
+      "미숫가루가루",
+      "선식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQYhLzCKcK",
+    "productImageFile": "pr_260907_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260907_01.jpg",
+    "ingredientImageFile": "raw_260907_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260907_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 363,
+    "show": true,
+    "checkDate": "2026-09-07",
+    "category": "음료/커피/유제품",
+    "name": "배대감 국산 고소한 미숫가루, 1kg, 1개",
+    "searchKeywords": [
+      "미숫가루",
+      "미숫가루음료",
+      "미숫가루가루",
+      "선식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQYS2nNRZI",
+    "productImageFile": "pr_260907_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260907_02.jpg",
+    "ingredientImageFile": "raw_260907_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260907_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 364,
+    "show": true,
+    "checkDate": "2026-09-07",
+    "category": "베이커리/잼",
+    "name": "네니아 샌드위치용 페스츄리 600g(60gx10개)",
+    "searchKeywords": [
+      "페스츄리",
+      "샌드위치빵",
+      "페이스트리",
+      "냉동페스츄리"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQZDzLrsIu",
+    "productImageFile": "pr_260907_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260907_03.jpg",
+    "ingredientImageFile": "raw_260907_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260907_03.jpg",
+    "countries": [
+      "한국",
+      "벨기에"
+    ],
+    "rocket": false,
     "curation": [],
     "advertisement": false,
     "certified": false,
