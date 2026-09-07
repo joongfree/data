@@ -4239,6 +4239,33 @@
     "weeklyViews": 0
   },
   {
+    "id": 151,
+    "show": true,
+    "checkDate": "2026-06-26",
+    "category": "간편식/냉동/냉장",
+    "name": "곰곰 케이준 감자튀김(냉동), 650g, 1개",
+    "searchKeywords": [
+      "감자튀김",
+      "케이준감자",
+      "냉동감자",
+      "프렌치프라이"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQ0fDbhOuq",
+    "productImageFile": "pr_260626_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260626_10.jpg",
+    "ingredientImageFile": "raw_260626_10.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260626_10.png",
+    "countries": [
+      "벨기에"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
     "id": 152,
     "show": true,
     "checkDate": "2026-06-26",
@@ -5604,6 +5631,33 @@
     "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_05.jpg",
     "ingredientImageFile": "raw_260714_05.png",
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_05.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 203,
+    "show": true,
+    "checkDate": "2026-07-14",
+    "category": "김치/반찬",
+    "name": "대상 종가 석박지, 1개, 900g\r",
+    "searchKeywords": [
+      "석박지",
+      "무김치",
+      "깍두기",
+      "김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQ0kH3VkZM",
+    "productImageFile": "pr_260714_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_06.jpg",
+    "ingredientImageFile": "raw_260714_06.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_06.png",
     "countries": [
       "한국"
     ],
@@ -7051,6 +7105,35 @@
     ],
     "rocket": true,
     "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 258,
+    "show": true,
+    "checkDate": "2026-07-22",
+    "category": "과일",
+    "name": "돌 스위티오 바나나, 1kg 내외, 1개",
+    "searchKeywords": [
+      "바나나",
+      "과일",
+      "수입과일",
+      "스위티오바나나"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gQ0tlx4kCa",
+    "productImageFile": "pr_260722_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_01.jpg",
+    "ingredientImageFile": "raw_260722_01.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_01.png",
+    "countries": [
+      "필리핀"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
