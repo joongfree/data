@@ -10159,5 +10159,142 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 365,
+    "show": true,
+    "checkDate": "2026-09-09",
+    "category": "간편식/냉동/냉장",
+    "name": "네니아 우리밀 왕교자 만두 (냉동), 1kg, 1개",
+    "searchKeywords": [
+      "왕교자만두",
+      "우리밀만두",
+      "냉동만두",
+      "교자만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gTVRFIUg9s",
+    "productImageFile": "pr_260909_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260909_01.jpg",
+    "ingredientImageFile": "raw_260909_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260909_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 366,
+    "show": true,
+    "checkDate": "2026-09-09",
+    "category": "장/양념/소스",
+    "name": "사랑과정성 사랑담은 굴소스, 240g, 2개",
+    "searchKeywords": [
+      "굴소스",
+      "볶음소스",
+      "중화소스",
+      "오이스터소스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gTWf7pQHXF",
+    "productImageFile": "pr_260909_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260909_02.jpg",
+    "ingredientImageFile": "raw_260909_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260909_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 367,
+    "show": true,
+    "checkDate": "2026-09-09",
+    "category": "조미료/오일/감미료",
+    "name": "올가홀푸드 유기농 부침가루, 350g, 1개",
+    "searchKeywords": [
+      "부침가루",
+      "유기농부침가루",
+      "전부침가루",
+      "튀김가루"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gTWxsOAY1Y",
+    "productImageFile": "pr_260909_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260909_03.jpg",
+    "ingredientImageFile": "raw_260909_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260909_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 368,
+    "show": true,
+    "checkDate": "2026-09-09",
+    "category": "음료/커피/유제품",
+    "name": "네니아 유기농 초코 쉐이크 80gx10개",
+    "searchKeywords": [
+      "초코쉐이크",
+      "유기농쉐이크",
+      "초콜릿쉐이크",
+      "쉐이크"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gTWMPn8Ivs",
+    "productImageFile": "pr_260909_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260909_04.jpg",
+    "ingredientImageFile": "raw_260909_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260909_04.jpg",
+    "countries": [
+      "한국",
+      "네덜란드"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 369,
+    "show": true,
+    "checkDate": "2026-09-09",
+    "category": "과자/간식",
+    "name": "네니아 버터가득 하트파이, 13g, 20개",
+    "searchKeywords": [
+      "하트파이",
+      "버터파이",
+      "미니파이",
+      "파이"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gTW0mFrLoG",
+    "productImageFile": "pr_260909_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260909_05.jpg",
+    "ingredientImageFile": "raw_260909_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260909_05.jpg",
+    "countries": [
+      "한국",
+      "이탈리아"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
