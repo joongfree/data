@@ -5717,7 +5717,7 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -10749,6 +10749,93 @@
     ],
     "rocket": true,
     "curation": [],
+    "advertisement": true,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 386,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "박상경새우 국내산 무항생제 인증 생새우살 (냉동), 200g, 1개",
+    "searchKeywords": [
+      "새우살",
+      "냉동새우",
+      "생새우",
+      "무항생제새우"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2Gl0wPAIe",
+    "productImageFile": "pr_260914_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_01.jpg",
+    "ingredientImageFile": "raw_260914_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 387,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "\r\n[하루50박스] 국내산 왕뚱땡이 새우 27미내외 흰다리새우",
+    "searchKeywords": [
+      "흰다리새우",
+      "대하",
+      "생새우",
+      "새우"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2GUKhBpvw",
+    "productImageFile": "pr_260914_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_02.jpg",
+    "ingredientImageFile": "raw_260914_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 388,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "피시원 국내산 자연산 대하 새우살 (냉동), 300g, 1개",
+    "searchKeywords": [
+      "대하살",
+      "새우살",
+      "냉동새우",
+      "자연산대하"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2G5hm0wDI",
+    "productImageFile": "pr_260914_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_03.jpg",
+    "ingredientImageFile": "raw_260914_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
