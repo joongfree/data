@@ -10296,5 +10296,462 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 370,
+    "show": true,
+    "checkDate": "2026-09-10",
+    "category": "채소/쌀/잡곡",
+    "name": "국내산 깐도라지, 250g, 1개",
+    "searchKeywords": [
+      "깐도라지",
+      "도라지",
+      "국내산도라지",
+      "손질도라지"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV4el477tY",
+    "productImageFile": "pr_260910_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260910_01.jpg",
+    "ingredientImageFile": "raw_260910_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260910_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 371,
+    "show": true,
+    "checkDate": "2026-09-10",
+    "category": "채소/쌀/잡곡",
+    "name": "친정엄마 국산 데친고사리, 450g (고형량 150g), 1개",
+    "searchKeywords": [
+      "데친고사리",
+      "고사리",
+      "국산고사리",
+      "나물고사리"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV4mQHL5oq",
+    "productImageFile": "pr_260910_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260910_02.jpg",
+    "ingredientImageFile": "raw_260910_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260910_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 372,
+    "show": true,
+    "checkDate": "2026-09-10",
+    "category": "채소/쌀/잡곡",
+    "name": "풀무원 무농약 국산 숙주, 260g, 1봉",
+    "searchKeywords": [
+      "숙주",
+      "숙주나물",
+      "무농약숙주",
+      "국산숙주"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV4EqFl12a",
+    "productImageFile": "pr_260910_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260910_03.jpg",
+    "ingredientImageFile": "raw_260910_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260910_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 373,
+    "show": true,
+    "checkDate": "2026-09-10",
+    "category": "채소/쌀/잡곡",
+    "name": "풀무원 특등급 국산콩 무농약 콩나물, 340g, 1개",
+    "searchKeywords": [
+      "콩나물",
+      "무농약콩나물",
+      "국산콩나물",
+      "특등급콩나물"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV4JX5q1VA",
+    "productImageFile": "pr_260910_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260910_04.jpg",
+    "ingredientImageFile": "raw_260910_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260910_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 374,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "채소/쌀/잡곡",
+    "name": "친정엄마 국내산 토란대, 1개, 450g",
+    "searchKeywords": [
+      "토란대",
+      "국내산토란대",
+      "건토란대",
+      "토란줄기"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV7kBlxFdY",
+    "productImageFile": "pr_260911_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_01.jpg",
+    "ingredientImageFile": "raw_260911_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 375,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "채소/쌀/잡곡",
+    "name": "국내산 무, 1개입, 1개",
+    "searchKeywords": [
+      "무",
+      "국내산무",
+      "생무",
+      "무우"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV7zrOZHK8",
+    "productImageFile": "pr_260911_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_02.jpg",
+    "ingredientImageFile": "raw_260911_02.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_02.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 376,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "채소/쌀/잡곡",
+    "name": "한방선생 국내산 건대추 특초",
+    "searchKeywords": [
+      "건대추",
+      "국내산대추",
+      "대추",
+      "통대추"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV7Qnnolzg",
+    "productImageFile": "pr_260911_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_03.jpg",
+    "ingredientImageFile": "raw_260911_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 377,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "채소/쌀/잡곡",
+    "name": "곰곰 속껍질깐밤 특, 1개, 500g",
+    "searchKeywords": [
+      "깐밤",
+      "속껍질깐밤",
+      "국내산밤",
+      "생밤"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV8apc3RGm",
+    "productImageFile": "pr_260911_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_04.jpg",
+    "ingredientImageFile": "raw_260911_04.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_04.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 378,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "과일",
+    "name": "감칠맛 상주곶감 (냉동), 500g(16과), 1개",
+    "searchKeywords": [
+      "곶감",
+      "상주곶감",
+      "냉동곶감",
+      "건시"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV8mBj0irY",
+    "productImageFile": "pr_260911_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_05.jpg",
+    "ingredientImageFile": "raw_260911_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 379,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "과일",
+    "name": "해맑음푸드 넛츠하우스 호두, 1kg, 1개",
+    "searchKeywords": [
+      "호두",
+      "호두1kg",
+      "견과류",
+      "국산호두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV80svZCmW",
+    "productImageFile": "pr_260911_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_06.jpg",
+    "ingredientImageFile": "raw_260911_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_06.jpg",
+    "countries": [
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 380,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "과일",
+    "name": "속껍질 깐 은행 중 (냉동), 250g, 1개",
+    "searchKeywords": [
+      "깐은행",
+      "은행",
+      "냉동은행",
+      "손질은행"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV9fubsTVQ",
+    "productImageFile": "pr_260911_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_07.jpg",
+    "ingredientImageFile": "raw_260911_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 381,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "수산/건어물",
+    "name": "곰곰 직접썰은 동태포 (냉동), 600g, 1개",
+    "searchKeywords": [
+      "동태포",
+      "냉동동태포",
+      "명태포",
+      "썰은동태"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV9sDCzwbs",
+    "productImageFile": "pr_260911_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_08.jpg",
+    "ingredientImageFile": "raw_260911_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_08.jpg",
+    "countries": [
+      "러시아"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 382,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "수산/건어물",
+    "name": "제주 참조기 10마리 (냉동)",
+    "searchKeywords": [
+      "참조기",
+      "조기",
+      "냉동조기",
+      "냉동참조기"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV9IhrLyJE",
+    "productImageFile": "pr_260911_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_09.jpg",
+    "ingredientImageFile": "raw_260911_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 383,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "수산/건어물",
+    "name": "아라보감 국산 냉동 자숙문어 (냉동)",
+    "searchKeywords": [
+      "아라보감 국산 냉동 자숙문어 (냉동)"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gV9S1Y2yEm",
+    "productImageFile": "pr_260911_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_10.jpg",
+    "ingredientImageFile": "raw_260911_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_10.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 384,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "간편식/냉동/냉장",
+    "name": "네니아 유기가공식품 인증 나리랑 달래랑 꿀떡 (냉동)",
+    "searchKeywords": [
+      "꿀떡",
+      "유기농꿀떡",
+      "냉동떡",
+      "떡간식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gWafV670uW",
+    "productImageFile": "pr_260911_11.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_11.jpg",
+    "ingredientImageFile": "raw_260911_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_11.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 385,
+    "show": true,
+    "checkDate": "2026-09-11",
+    "category": "간편식/냉동/냉장",
+    "name": "올가홀푸드 국산 쌀로 빚은 흰 송편 (냉동)",
+    "searchKeywords": [
+      "송편",
+      "흰송편",
+      "냉동송편",
+      "국산쌀송편"
+    ],
+    "buyUrl": "https://link.coupang.com/a/gWaC8PYwnc",
+    "productImageFile": "pr_260911_12.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260911_12.png",
+    "ingredientImageFile": "raw_260911_12.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260911_12.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
