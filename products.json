@@ -10553,7 +10553,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -10749,7 +10749,7 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
