@@ -5717,7 +5717,7 @@
     ],
     "rocket": true,
     "curation": [],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -10553,7 +10553,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -10749,6 +10749,267 @@
     ],
     "rocket": true,
     "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 386,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "박상경새우 국내산 무항생제 인증 생새우살 (냉동), 200g, 1개",
+    "searchKeywords": [
+      "새우살",
+      "냉동새우",
+      "생새우",
+      "무항생제새우"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2Gl0wPAIe",
+    "productImageFile": "pr_260914_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_01.jpg",
+    "ingredientImageFile": "raw_260914_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 387,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "\r\n[하루50박스] 국내산 왕뚱땡이 새우 27미내외 흰다리새우",
+    "searchKeywords": [
+      "흰다리새우",
+      "대하",
+      "생새우",
+      "새우"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2GUKhBpvw",
+    "productImageFile": "pr_260914_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_02.jpg",
+    "ingredientImageFile": "raw_260914_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 388,
+    "show": true,
+    "checkDate": "2026-09-14",
+    "category": "수산/건어물",
+    "name": "피시원 국내산 자연산 대하 새우살 (냉동), 300g, 1개",
+    "searchKeywords": [
+      "대하살",
+      "새우살",
+      "냉동새우",
+      "자연산대하"
+    ],
+    "buyUrl": "https://link.coupang.com/a/g2G5hm0wDI",
+    "productImageFile": "pr_260914_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260914_03.jpg",
+    "ingredientImageFile": "raw_260914_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260914_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 389,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "장/양념/소스",
+    "name": "멸치액젓, 420ml, 1개",
+    "searchKeywords": [
+      "멸치액젓",
+      "액젓",
+      "김치액젓",
+      "멸치젓"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hpr59QcIx2",
+    "productImageFile": "pr_260928_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_01.jpg",
+    "ingredientImageFile": "raw_260928_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 390,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "장/양념/소스",
+    "name": "외갓집곳간 갓 잡아올린 국내산 싱싱 새우젓, 500g, 1개",
+    "searchKeywords": [
+      "새우젓",
+      "국산새우젓",
+      "국내산새우젓",
+      "젓갈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hpsRKKXwpo",
+    "productImageFile": "pr_260928_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_02.jpg",
+    "ingredientImageFile": "raw_260928_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 391,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "채소/쌀/잡곡",
+    "name": "가나 큐브형 다진생강, 155g, 1개",
+    "searchKeywords": [
+      "다진생강",
+      "생강큐브",
+      "큐브생강",
+      "생강"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hptgfsxAGq",
+    "productImageFile": "pr_260928_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_03.jpg",
+    "ingredientImageFile": "raw_260928_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 392,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "조미료/오일/감미료",
+    "name": "햇님마을 경북 영양 고춧가루, 500g, 1개",
+    "searchKeywords": [
+      "영양고춧가루",
+      "경북고춧가루",
+      "국산고춧가루",
+      "고추가루"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hptxG91W1c",
+    "productImageFile": "pr_260928_04.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_04.png",
+    "ingredientImageFile": "raw_260928_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 393,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "수산/건어물",
+    "name": "\r\n완도소안농협 자른 다시마, 2개, 200g",
+    "searchKeywords": [
+      "자른다시마",
+      "완도다시마",
+      "국산다시마",
+      "건다시마"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hptZx1YMIm",
+    "productImageFile": "pr_260928_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_05.png",
+    "ingredientImageFile": "raw_260928_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 394,
+    "show": true,
+    "checkDate": "2026-09-28",
+    "category": "음료/커피/유제품",
+    "name": "예가촌 100% 하동 국산 발효 매실원액, 1L, 1개",
+    "searchKeywords": [
+      "매실원액",
+      "매실청",
+      "하동매실",
+      "국산매실"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hpugXkQTJI",
+    "productImageFile": "pr_260928_06.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260928_06.png",
+    "ingredientImageFile": "raw_260928_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260928_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
