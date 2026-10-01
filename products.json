@@ -11157,5 +11157,200 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 400,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "장/양념/소스",
+    "name": "샘표 조선 국산100% 고추장, 1kg, 1개",
+    "searchKeywords": [
+      "고추장",
+      "국산고추장",
+      "조선고추장",
+      "찰고추장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huESSC4zq8",
+    "productImageFile": "pr_261001_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_01.jpg",
+    "ingredientImageFile": "raw_261001_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 401,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "유아식",
+    "name": "몸애쏙쏙 유기농 배도라지즙, 100ml, 10개",
+    "searchKeywords": [
+      "배도라지즙",
+      "도라지배즙",
+      "배즙",
+      "도라지즙"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huE6ZhrQnQ",
+    "productImageFile": "pr_261001_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_02.jpg",
+    "ingredientImageFile": "raw_261001_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 402,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "김치/반찬",
+    "name": "종가집 오래오래 시원한 동치미, 1.2kg, 1개",
+    "searchKeywords": [
+      "동치미",
+      "동치미국물",
+      "물김치",
+      "동치미김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huFnKdJ3ds",
+    "productImageFile": "pr_261001_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_03.jpg",
+    "ingredientImageFile": "raw_261001_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 403,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "음료/커피/유제품",
+    "name": "(고흥식품) 화학 첨가물이 없는 100% 통 유자차",
+    "searchKeywords": [
+      "유자차",
+      "유자청",
+      "고흥유자차",
+      "무첨가유자차"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huHNjd4lQy",
+    "productImageFile": "pr_261001_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_04.jpg",
+    "ingredientImageFile": "raw_261001_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 404,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "조미료/오일/감미료",
+    "name": "서산갯마을 찐 생강 가루, 80g, 1개",
+    "searchKeywords": [
+      "생강가루",
+      "건생강가루",
+      "찐생강",
+      "생강분말"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huH8v69C1I",
+    "productImageFile": "pr_261001_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_05.jpg",
+    "ingredientImageFile": "raw_261001_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 405,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "장/양념/소스",
+    "name": "(감로이슬농원) 100% 국산 재래식 시골 전통 수제 찹쌀 고추장, 2kg, 1개",
+    "searchKeywords": [
+      "찹쌀고추장",
+      "국산고추장",
+      "전통고추장",
+      "수제고추장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huIryOvXLU",
+    "productImageFile": "pr_261001_06.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_06.png",
+    "ingredientImageFile": "raw_261001_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 406,
+    "show": true,
+    "checkDate": "2026-10-01",
+    "category": "장/양념/소스",
+    "name": "해찬들 100% 국산 고추장, 500g, 1개",
+    "searchKeywords": [
+      "고추장",
+      "국산고추장",
+      "100%국산고추장",
+      "찰고추장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/huIymDJk8y",
+    "productImageFile": "pr_261001_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261001_07.jpg",
+    "ingredientImageFile": "raw_261001_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261001_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
