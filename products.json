@@ -11014,5 +11014,148 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 395,
+    "show": true,
+    "checkDate": "2026-09-30",
+    "category": "조미료/오일/감미료",
+    "name": "곰곰 국내산 고춧가루, 1kg, 1개",
+    "searchKeywords": [
+      "고춧가루",
+      "국산고춧가루",
+      "국내산고춧가루",
+      "고추가루"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hsL77cat4K",
+    "productImageFile": "pr_260930_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260930_01.jpg",
+    "ingredientImageFile": "raw_260930_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260930_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 396,
+    "show": true,
+    "checkDate": "2026-09-30",
+    "category": "과일",
+    "name": "곰곰 국내산 배, 1.8kg(3~4입), 1개",
+    "searchKeywords": [
+      "배",
+      "국산배",
+      "국내산배",
+      "배과일"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hsM2irlVDg",
+    "productImageFile": "pr_260930_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260930_02.jpg",
+    "ingredientImageFile": "raw_260930_02.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260930_02.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 397,
+    "show": true,
+    "checkDate": "2026-09-30",
+    "category": "수산/건어물",
+    "name": "바다미식회 살이꽉찬 국내산 손질꽃게 2절 (냉동), 1kg, 1개",
+    "searchKeywords": [
+      "꽃게",
+      "손질꽃게",
+      "냉동꽃게",
+      "절단꽃게"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hsNh75Lvsi",
+    "productImageFile": "pr_260930_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260930_03.jpg",
+    "ingredientImageFile": "raw_260930_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260930_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 398,
+    "show": true,
+    "checkDate": "2026-09-30",
+    "category": "김치/반찬",
+    "name": "비비고 총각김치, 1.2kg, 1개",
+    "searchKeywords": [
+      "총각김치",
+      "알타리김치",
+      "총각무김치",
+      "알타리무김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hsNTTi8Wku",
+    "productImageFile": "pr_260930_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260930_04.jpg",
+    "ingredientImageFile": "raw_260930_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260930_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 399,
+    "show": true,
+    "checkDate": "2026-09-30",
+    "category": "유아식",
+    "name": "아이배냇 배도라지조아 음료, 100ml, 20개",
+    "searchKeywords": [
+      "배도라지",
+      "배도라지음료",
+      "배도라지즙",
+      "도라지배즙"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hsN462v0jk",
+    "productImageFile": "pr_260930_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260930_05.png",
+    "ingredientImageFile": "raw_260930_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260930_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
