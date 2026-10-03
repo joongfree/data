@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "중국산프리",
+  "short_name": "중국산프리",
+  "description": "중국산 원재료 없는 식품을 모아둔 중국산프리. 원재료 원산지까지 확인한 식품만 모았어요.",
+  "lang": "ko",
+  "start_url": "https://joongfree.com/",
+  "scope": "https://joongfree.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F7F7FB",
+  "background_color": "#F7F7FB",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/joongfree/data@main/pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/joongfree/data@main/pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/joongfree/data@main/pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
