@@ -11379,5 +11379,181 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 408,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "수미칩 오리지널, 85g, 10개",
+    "searchKeywords": [
+      "감자칩",
+      "수미칩",
+      "국산감자",
+      "봉지과자"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxxiG0xiua",
+    "productImageFile": "pr_261003_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_02.jpg",
+    "ingredientImageFile": "raw_261003_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_02.jpg",
+    "countries": [
+      "한국",
+      "호주",
+      "말레이시아"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 409,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "기타 온가족 누룽지 + 귀리미니 60g x 30, 60g, 30개",
+    "searchKeywords": [
+      "누룽지",
+      "누룽지과자",
+      "귀리누룽지",
+      "국산쌀"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxx5iJBK7o",
+    "productImageFile": "pr_261003_03.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_03.png",
+    "ingredientImageFile": "raw_261003_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_03.jpg",
+    "countries": [
+      "한국",
+      "캐나다"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 410,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "삼립 미니 꿀 약과, 1kg, 2개",
+    "searchKeywords": [
+      "약과",
+      "미니약과",
+      "꿀약과",
+      "전통과자"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxykSMs8Mm",
+    "productImageFile": "pr_261003_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_04.jpg",
+    "ingredientImageFile": "raw_261003_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_04.jpg",
+    "countries": [
+      "미국",
+      "호주",
+      "캐나다",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 411,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "수담조청유과 선물세트 수담한과, 1kg, 1개",
+    "searchKeywords": [
+      "조청유과",
+      "유과",
+      "한과선물세트",
+      "한과"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxyCEtrztA",
+    "productImageFile": "pr_261003_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_05.png",
+    "ingredientImageFile": "raw_261003_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_05.jpg",
+    "countries": [
+      "한국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 412,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "오희숙전통부각 찹쌀 김 부각, 30g, 3개",
+    "searchKeywords": [
+      "김부각",
+      "찹쌀부각",
+      "부각",
+      "찹쌀김부각"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxy5X26mm4",
+    "productImageFile": "pr_261003_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_06.jpg",
+    "ingredientImageFile": "raw_261003_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_06.jpg",
+    "countries": [
+      "한국",
+      "태국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 413,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "과자/간식",
+    "name": "매홍 국내산 촉촉한 군고구마 말랭이, 60g, 5개",
+    "searchKeywords": [
+      "군고구마말랭이",
+      "고구마말랭이",
+      "말랭이",
+      "고구마간식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hxzozSOvQG",
+    "productImageFile": "pr_261003_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_07.jpg",
+    "ingredientImageFile": "raw_261003_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
