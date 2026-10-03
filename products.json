@@ -5358,7 +5358,7 @@
     "curation": [],
     "advertisement": false,
     "certified": false,
-    "reportCount": 0,
+    "reportCount": 1,
     "weeklyViews": 0
   },
   {
@@ -11347,6 +11347,33 @@
       "한국"
     ],
     "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 407,
+    "show": true,
+    "checkDate": "2026-10-03",
+    "category": "김치/반찬",
+    "name": "노브랜드 별미 포기김치 3.5kg",
+    "searchKeywords": [
+      "포기김치",
+      "김치",
+      "숙성김치",
+      "국내산김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hwCQVZqDD2",
+    "productImageFile": "pr_261003_01.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261003_01.png",
+    "ingredientImageFile": "raw_261003_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261003_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
     "curation": [],
     "advertisement": false,
     "certified": false,
