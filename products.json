@@ -11787,5 +11787,416 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 423,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "정육/계란",
+    "name": "베이컨리얼리즘 무설탕 로스트 햄, 100g, 1개",
+    "searchKeywords": [
+      "로스트햄",
+      "무설탕햄",
+      "슬라이스햄",
+      "햄"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDe3V3O5u0",
+    "productImageFile": "pr_261007_00.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_00.jpg",
+    "ingredientImageFile": "raw_261007_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_01.jpg",
+    "countries": [
+      "한국",
+      "베트남",
+      "말레이시아",
+      "인도네시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 424,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "유아식",
+    "name": "베베쿡 오동통맛밤, 50g, 2개",
+    "searchKeywords": [
+      "맛밤",
+      "군밤",
+      "깐밤",
+      "밤간식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDgjWNJj64",
+    "productImageFile": "pr_261007_02.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_02.png",
+    "ingredientImageFile": "raw_261007_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 425,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "농협식품 아름찬 달콤밤 4p, 52g, 4개",
+    "searchKeywords": [
+      "맛밤",
+      "달콤밤",
+      "군밤",
+      "깐밤"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDgw565gSi",
+    "productImageFile": "pr_261007_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_03.jpg",
+    "ingredientImageFile": "raw_261007_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 426,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "옳곡 카카오 땅콩크런치 그래놀라, 150g, 1개",
+    "searchKeywords": [
+      "그래놀라",
+      "땅콩그래놀라",
+      "카카오그래놀라",
+      "시리얼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDhkWU5XYi",
+    "productImageFile": "pr_261007_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_04.jpg",
+    "ingredientImageFile": "raw_261007_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_04.jpg",
+    "countries": [
+      "캐나다",
+      "한국",
+      "미국",
+      "네덜란드"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 427,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "풍심당 호롱칩 현미 병아리콩 누룽지 과자 칩, 100g, 3개",
+    "searchKeywords": [
+      "누룽지칩",
+      "누룽지과자",
+      "병아리콩칩",
+      "현미누룽지"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDhFMTdh0u",
+    "productImageFile": "pr_261007_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_05.jpg",
+    "ingredientImageFile": "raw_261007_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_05.jpg",
+    "countries": [
+      "한국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 428,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "풍심당 우도 땅콩 누룽지 과자 칩 10p, 120g, 1개",
+    "searchKeywords": [
+      "누룽지칩",
+      "땅콩누룽지",
+      "누룽지과자",
+      "땅콩칩"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDhSSSdVgO",
+    "productImageFile": "pr_261007_06.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_06.png",
+    "ingredientImageFile": "raw_261007_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 429,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "성부식품 강원도 강냉이, 150g, 3개",
+    "searchKeywords": [
+      "강냉이",
+      "옥수수튀밥",
+      "옥수수강냉이",
+      "뻥튀기"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDijG6ghH2",
+    "productImageFile": "pr_261007_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_07.jpg",
+    "ingredientImageFile": "raw_261007_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_07.jpg",
+    "countries": [
+      "한국",
+      "브라질"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 430,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "베이커리/잼",
+    "name": "커클랜드시그니춰 메이플 시럽, 1L, 1개",
+    "searchKeywords": [
+      "메이플시럽",
+      "메이플시럽1L",
+      "100%메이플시럽",
+      "커클랜드메이플시럽"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDjm6S76K4",
+    "productImageFile": "pr_261007_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_08.jpg",
+    "ingredientImageFile": "raw_261007_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_08.jpg",
+    "countries": [
+      "캐나다"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 431,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "조미료/오일/감미료",
+    "name": "커클랜드 시그니처 벌꿀 750g / 코스트코 꿀",
+    "searchKeywords": [
+      "벌꿀",
+      "꿀",
+      "커클랜드꿀",
+      "코스트코꿀"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDjBvcWUXQ",
+    "productImageFile": "pr_261007_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_09.jpg",
+    "ingredientImageFile": "raw_261007_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_09.jpg",
+    "countries": [
+      "캐나다"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 432,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "음료/커피/유제품",
+    "name": "커클랜드 시그니춰 유기농 코코넛워터 330ml x 12",
+    "searchKeywords": [
+      "코코넛워터",
+      "유기농코코넛워터",
+      "코코넛음료",
+      "코코넛물"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDjU6PVA0O",
+    "productImageFile": "pr_261007_10.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_10.png",
+    "ingredientImageFile": "raw_261007_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_10.jpg",
+    "countries": [
+      "필리핀"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 433,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "간편식/냉동/냉장",
+    "name": "열두닭 오븐으로만 조리한 닭가슴살 오리지널 훈제맛, 100g, 30개",
+    "searchKeywords": [
+      "닭가슴살",
+      "훈제닭가슴살",
+      "오븐닭가슴살",
+      "냉장닭가슴살"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDkTH1sgai",
+    "productImageFile": "pr_261007_11.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_11.jpg",
+    "ingredientImageFile": "raw_261007_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_11.jpg",
+    "countries": [
+      "한국",
+      "인도",
+      "호주",
+      "베트남"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 434,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "간편식/냉동/냉장",
+    "name": "푸드원 맛닭 냉장 훈제 닭가슴살 저염분, 20개, 100g",
+    "searchKeywords": [
+      "훈제닭가슴살",
+      "닭가슴살",
+      "저염닭가슴살",
+      "냉장닭가슴살"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDk6nnhbJk",
+    "productImageFile": "pr_261007_12.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_12.jpg",
+    "ingredientImageFile": "raw_261007_12.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_12.jpg",
+    "countries": [
+      "한국",
+      "페루"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 435,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "간편식/냉동/냉장",
+    "name": "오테이스트 손맛 미역국, 3.5g, 24개",
+    "searchKeywords": [
+      "미역국",
+      "즉석미역국",
+      "미역국건더기",
+      "동결건조미역국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDlKUUqnxA",
+    "productImageFile": "pr_261007_13.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_13.png",
+    "ingredientImageFile": "raw_261007_13.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_13.jpg",
+    "countries": [
+      "한국",
+      "호주",
+      "러시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 436,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "간편식/냉동/냉장",
+    "name": "햇반 컵반 미역국밥, 167g, 6개",
+    "searchKeywords": [
+      "미역국",
+      "즉석미역국",
+      "미역국건더기",
+      "동결건조미역국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDl5SFnVVA",
+    "productImageFile": "pr_261007_14.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_14.jpg",
+    "ingredientImageFile": "raw_261007_14.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_14.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
