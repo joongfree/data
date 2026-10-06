@@ -11528,5 +11528,264 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 414,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "수산/건어물",
+    "name": "덕화명란 백명란 (냉동), 100g, 2개",
+    "searchKeywords": [
+      "백명란",
+      "명란젓",
+      "냉동명란",
+      "명란"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hCUedq87nU",
+    "productImageFile": "pr_261006_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_01.jpg",
+    "ingredientImageFile": "raw_261006_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_01.jpg",
+    "countries": [
+      "러시아",
+      "한국",
+      "스페인",
+      "이탈리아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 415,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "김치/반찬",
+    "name": "광천 오징어젓, 180g, 1개",
+    "searchKeywords": [
+      "오징어젓",
+      "오징어젓갈",
+      "젓갈",
+      "오징어젓갈반찬"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hCU1q0oad3",
+    "productImageFile": "pr_261006_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_02.jpg",
+    "ingredientImageFile": "raw_261006_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 416,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "통조림/즉석밥/면",
+    "name": "동원참치 살코기 인 워터, 100g, 10개",
+    "searchKeywords": [
+      "참치캔",
+      "살코기참치",
+      "물참치",
+      "참치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDcHjsGQay",
+    "productImageFile": "pr_261006_03.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_03.png",
+    "ingredientImageFile": "raw_261006_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_03.jpg",
+    "countries": [
+      "원양",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공",
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 417,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "간편식/냉동/냉장",
+    "name": "칠갑농산 우리햇쌀떡, 800g, 1개",
+    "searchKeywords": [
+      "쌀떡",
+      "떡볶이떡",
+      "가래떡",
+      "떡국떡"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDcZspHZCe",
+    "productImageFile": "pr_261006_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_04.jpg",
+    "ingredientImageFile": "raw_261006_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 418,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "조미료/오일/감미료",
+    "name": "[영월농협] 국산 쌀 조청, 700g, 1개",
+    "searchKeywords": [
+      "쌀조청",
+      "조청",
+      "국산조청",
+      "쌀엿"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDdbY28u8O",
+    "productImageFile": "pr_261006_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_05.png",
+    "ingredientImageFile": "raw_261006_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 419,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "조미료/오일/감미료",
+    "name": "두레촌 강명인청 명인 우리쌀 올리고당 1.2kg",
+    "searchKeywords": [
+      "쌀올리고당",
+      "올리고당",
+      "우리쌀올리고당",
+      "쌀조청"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDdr30aEoe",
+    "productImageFile": "pr_261006_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_06.jpg",
+    "ingredientImageFile": "raw_261006_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 420,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "장/양념/소스",
+    "name": "강경 국산 까나리액젓 원액, 1.2kg, 1개",
+    "searchKeywords": [
+      "까나리액젓",
+      "액젓",
+      "국산액젓",
+      "김장액젓"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDdJYMw0E8",
+    "productImageFile": "pr_261006_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_07.jpg",
+    "ingredientImageFile": "raw_261006_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 421,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "김치/반찬",
+    "name": "풀무원 백색 김밥 단무지, 310g, 1개",
+    "searchKeywords": [
+      "김밥단무지",
+      "단무지",
+      "백색단무지",
+      "김밥용단무지"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDdX2Cd5ki",
+    "productImageFile": "pr_261006_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_08.jpg",
+    "ingredientImageFile": "raw_261006_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_08.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 422,
+    "show": true,
+    "checkDate": "2026-10-06",
+    "category": "김치/반찬",
+    "name": "집반찬연구소 유자향 오이무피클, 1개, 370g",
+    "searchKeywords": [
+      "오이피클",
+      "무피클",
+      "유자피클",
+      "피클"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hDeeAFIgrQ",
+    "productImageFile": "pr_261006_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261006_09.jpg",
+    "ingredientImageFile": "raw_261006_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261006_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
