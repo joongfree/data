@@ -1808,7 +1808,7 @@
     "curation": [
       "저가공"
     ],
-    "advertisement": false,
+    "advertisement": true,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -2010,6 +2010,38 @@
     ],
     "rocket": true,
     "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 72,
+    "show": true,
+    "checkDate": "2026-06-14",
+    "category": "과자/간식",
+    "name": "넛츠그린 무설탕 다크 초콜릿 72% 22개입, 2개, 117g",
+    "searchKeywords": [
+      "무설탕초콜릿",
+      "다크초콜릿",
+      "저당초콜릿",
+      "초콜릿"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEVNmOpwyq",
+    "productImageFile": "pr_260614_41.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260614_41.jpg",
+    "ingredientImageFile": "raw_260614_41.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260614_41.png",
+    "countries": [
+      "탄자니아",
+      "네덜란드",
+      "말레이시아",
+      "싱가포르"
+    ],
+    "rocket": true,
+    "curation": [
+      "저당"
+    ],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
@@ -3588,6 +3620,36 @@
       "미국",
       "말레이시아",
       "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 127,
+    "show": true,
+    "checkDate": "2026-06-20",
+    "category": "베이커리/잼",
+    "name": "바른식방 통밀 모닝빵, 440g, 1개",
+    "searchKeywords": [
+      "모닝빵",
+      "통밀빵",
+      "아침빵",
+      "식사빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEVNmSWug8",
+    "productImageFile": "pr_260620_25.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260620_25.jpg",
+    "ingredientImageFile": "raw_260620_25.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260620_25.png",
+    "countries": [
+      "터키",
+      "캐나다",
+      "독일",
+      "미국"
     ],
     "rocket": true,
     "curation": [],
@@ -5753,6 +5815,35 @@
     "weeklyViews": 0
   },
   {
+    "id": 209,
+    "show": true,
+    "checkDate": "2026-07-14",
+    "category": "김치/반찬",
+    "name": "금복식품 완도산 파래김 100매 생김 전장김 무조미김 햇김, 1개, 180g",
+    "searchKeywords": [
+      "파래김",
+      "생김",
+      "전장김",
+      "무조미김"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEVNm6stKS",
+    "productImageFile": "pr_260714_12.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260714_12.jpg",
+    "ingredientImageFile": "raw_260714_12.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260714_12.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
     "id": 210,
     "show": true,
     "checkDate": "2026-07-14",
@@ -6436,6 +6527,35 @@
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260717_22.png",
     "countries": [
       "캐나다"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 234,
+    "show": true,
+    "checkDate": "2026-07-17",
+    "category": "채소/쌀/잡곡",
+    "name": "농협 대한민곡 백태, 1kg, 1개",
+    "searchKeywords": [
+      "백태",
+      "흰콩",
+      "콩",
+      "콩류"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEVvcTIrVA",
+    "productImageFile": "pr_260717_23.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260717_23.jpg",
+    "ingredientImageFile": "raw_260717_23.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260717_23.png",
+    "countries": [
+      "한국"
     ],
     "rocket": true,
     "curation": [
@@ -7305,6 +7425,64 @@
     "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_08.png",
     "countries": [
       "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 266,
+    "show": true,
+    "checkDate": "2026-07-22",
+    "category": "과일/견과류",
+    "name": "농협 유명산지 당도선별 부드러운 백도복숭아, 1.25kg(4~6입), 1박스",
+    "searchKeywords": [
+      "백도복숭아",
+      "복숭아",
+      "당도선별복숭아",
+      "과일"
+    ],
+    "buyUrl": "https://link.coupang.com/a/fztGMFXdCe?abTestInfo=100412_group_A",
+    "productImageFile": "pr_260722_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_09.jpg",
+    "ingredientImageFile": "raw_260722_09.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_09.png",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 267,
+    "show": true,
+    "checkDate": "2026-07-22",
+    "category": "과일/견과류",
+    "name": "고당도 미국 체리, 300g, 1개",
+    "searchKeywords": [
+      "체리",
+      "미국체리",
+      "생체리",
+      "과일"
+    ],
+    "buyUrl": "https://link.coupang.com/a/fztOOTbpAW?abTestInfo=100412_group_A",
+    "productImageFile": "pr_260722_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_260722_10.jpg",
+    "ingredientImageFile": "raw_260722_10.png",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_260722_10.png",
+    "countries": [
+      "미국"
     ],
     "rocket": true,
     "curation": [
@@ -10526,7 +10704,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -12191,6 +12369,351 @@
     "countries": [
       "한국",
       "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 437,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "나뚜루 바닐라클래식 아이스크림 (냉동)",
+    "searchKeywords": [
+      "바닐라아이스크림",
+      "바닐라맛아이스크림",
+      "아이스크림",
+      "파인트아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEAjC1dxcW",
+    "productImageFile": "pr_261007_15.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_15.jpg",
+    "ingredientImageFile": "raw_261007_15.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_15.jpg",
+    "countries": [
+      "한국",
+      "마다가스카르"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 438,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "서울우유 흰우유 아이스크림 (냉동)",
+    "searchKeywords": [
+      "우유아이스크림",
+      "밀크아이스크림",
+      "흰우유아이스크림",
+      "아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEARCx8v9w",
+    "productImageFile": "pr_261007_16.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_16.jpg",
+    "ingredientImageFile": "raw_261007_16.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_16.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 439,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "범산목장 유기가공식품인증 아이스크림 코코아 (냉동)",
+    "searchKeywords": [
+      "코코아아이스크림",
+      "초코아이스크림",
+      "유기농아이스크림",
+      "아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEBDQ3UnYW",
+    "productImageFile": "pr_261007_17.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_17.jpg",
+    "ingredientImageFile": "raw_261007_17.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_17.jpg",
+    "countries": [
+      "한국",
+      "브라질",
+      "멕시코",
+      "네덜란드"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 440,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "상하목장 아이스크림 딸기 (냉동)",
+    "searchKeywords": [
+      "딸기아이스크림",
+      "딸기맛아이스크림",
+      "유기농아이스크림",
+      "아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEB4anukvs",
+    "productImageFile": "pr_261007_18.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_18.jpg",
+    "ingredientImageFile": "raw_261007_18.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_18.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 441,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "나뚜루 녹차 아이스크림 (냉동)",
+    "searchKeywords": [
+      "녹차아이스크림",
+      "녹차맛아이스크림",
+      "그린티아이스크림",
+      "아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hECaQQLnFs",
+    "productImageFile": "pr_261007_19.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_19.jpg",
+    "ingredientImageFile": "raw_261007_19.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_19.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 442,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "연세우유 전용목장 피스타치오 초코아몬드 아이스크림 (냉동)",
+    "searchKeywords": [
+      "피스타치오아이스크림",
+      "초코아몬드아이스크림",
+      "초코아이스크림",
+      "아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hECHnAtK0W",
+    "productImageFile": "pr_261007_20.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_20.png",
+    "ingredientImageFile": "raw_261007_20.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_20.jpg",
+    "countries": [
+      "한국",
+      "호주",
+      "미국",
+      "싱가포르"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 443,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "[디핀다트] 구슬아이스크림 16개 구성 딸기",
+    "searchKeywords": [
+      "딸기구슬아이스크림",
+      "구슬아이스크림",
+      "딸기아이스크림",
+      "비즈아이스크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEDi3Vz1Ay",
+    "productImageFile": "pr_261007_21.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_21.jpg",
+    "ingredientImageFile": "raw_261007_21.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_21.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 444,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "음료/커피/유제품",
+    "name": "강훈목장 수제요거트 블루베리",
+    "searchKeywords": [
+      "블루베리요거트",
+      "수제요거트",
+      "떠먹는요거트",
+      "요거트"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEDtmxDvbM",
+    "productImageFile": "pr_261007_22.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_22.jpg",
+    "ingredientImageFile": "raw_261007_22.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_22.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "캐나다"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 445,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "오리온 비쵸비 비스켓, 125g, 2개",
+    "searchKeywords": [
+      "비쵸비",
+      "초코비스킷",
+      "초코비스켓",
+      "초코과자"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hED5y2ZozY",
+    "productImageFile": "pr_261007_23.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_23.jpg",
+    "ingredientImageFile": "raw_261007_23.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_23.jpg",
+    "countries": [
+      "프랑스",
+      "말레이시아",
+      "미국",
+      "뉴질랜드"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 446,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "참크래커, 280g, 2개",
+    "searchKeywords": [
+      "크래커",
+      "참크래커",
+      "참 크래커",
+      "과자"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEEibUtBIW",
+    "productImageFile": "pr_261007_24.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_24.jpg",
+    "ingredientImageFile": "raw_261007_24.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_24.jpg",
+    "countries": [
+      "미국",
+      "호주",
+      "말레이시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 447,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "과자/간식",
+    "name": "해태제과 아이비, 309g, 1개",
+    "searchKeywords": [
+      "아이비크래커",
+      "아이비과자",
+      "아이비",
+      "크래커"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEEwI1UZq0",
+    "productImageFile": "pr_261007_27.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_27.jpg",
+    "ingredientImageFile": "raw_261007_25.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_25.jpg",
+    "countries": [
+      "미국",
+      "호주",
+      "말레이시아"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 448,
+    "show": true,
+    "checkDate": "2026-10-07",
+    "category": "간편식/냉동/냉장",
+    "name": "BHC 안심촉촉 치킨텐더 (냉동), 300g, 1개",
+    "searchKeywords": [
+      "치킨텐더",
+      "냉동치킨텐더",
+      "닭안심",
+      "닭안심튀김"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hEEW6O5orY",
+    "productImageFile": "pr_261007_26.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261007_26.jpg",
+    "ingredientImageFile": "raw_261007_26.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261007_26.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "캐나다"
     ],
     "rocket": true,
     "curation": [],
