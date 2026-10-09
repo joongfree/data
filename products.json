@@ -12721,5 +12721,34 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 449,
+    "show": true,
+    "checkDate": "2026-10-08",
+    "category": "베이커리/잼",
+    "name": "복음자리 무농약 딸기로 만든 잼, 500g, 1개",
+    "searchKeywords": [
+      "딸기잼",
+      "무농약딸기잼",
+      "국산딸기잼",
+      "딸기쨈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hGrO4iZggm",
+    "productImageFile": "pr_261008_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261008_01.jpg",
+    "ingredientImageFile": "raw_261008_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261008_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
