@@ -1808,7 +1808,7 @@
     "curation": [
       "저가공"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -13034,6 +13034,291 @@
     "curation": [
       "저당"
     ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 460,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "설성목장 한우 사골 곰탕 (냉동), 1kg, 2개",
+    "searchKeywords": [
+      "사골곰탕",
+      "한우곰탕",
+      "사골국",
+      "곰국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jt6Zoq",
+    "productImageFile": "pr_261010_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_01.jpg",
+    "ingredientImageFile": "raw_261010_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 461,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "베이커리/잼",
+    "name": "네니아 우리밀 통팥찐빵 (냉동), 50g, 8개입, 1개",
+    "searchKeywords": [
+      "팥찐빵",
+      "찐빵",
+      "우리밀찐빵",
+      "단팥찐빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jxUXue",
+    "productImageFile": "pr_261010_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_02.jpg",
+    "ingredientImageFile": "raw_261010_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_02.jpg",
+    "countries": [
+      "한국",
+      "태국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 462,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "네니아 우리밀 물만두 (냉동), 1kg, 1개",
+    "searchKeywords": [
+      "물만두",
+      "냉동만두",
+      "고기만두",
+      "우리밀만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jDead2",
+    "productImageFile": "pr_261010_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_03.jpg",
+    "ingredientImageFile": "raw_261010_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": true,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 463,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "담꽃 무가당 통팥죽 (냉동), 250g, 4개",
+    "searchKeywords": [
+      "팥죽",
+      "통팥죽",
+      "무설탕팥죽",
+      "냉동죽"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jIAw1I",
+    "productImageFile": "pr_261010_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_04.jpg",
+    "ingredientImageFile": "raw_261010_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 464,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "쪄옴 순현미 떡국떡 (냉동), 1kg, 3봉",
+    "searchKeywords": [
+      "떡국떡",
+      "현미떡국떡",
+      "현미떡",
+      "떡국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jMou7w",
+    "productImageFile": "pr_261010_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_05.jpg",
+    "ingredientImageFile": "raw_261010_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 465,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "오늘차림 한우곰탕 냉장, 500g, 3개",
+    "searchKeywords": [
+      "한우곰탕",
+      "곰탕",
+      "사골곰탕",
+      "곰국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jRHHRk",
+    "productImageFile": "pr_261010_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_06.jpg",
+    "ingredientImageFile": "raw_261010_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 466,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "생생 삼계탕 냉장, 1kg, 3개",
+    "searchKeywords": [
+      "삼계탕",
+      "냉장삼계탕",
+      "닭백숙",
+      "보양식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nxoIxg",
+    "productImageFile": "pr_261010_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_07.jpg",
+    "ingredientImageFile": "raw_261010_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 467,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "농협식품 우리쌀 떡볶이떡, 400g, 1개",
+    "searchKeywords": [
+      "떡볶이떡",
+      "쌀떡",
+      "쌀떡볶이떡",
+      "떡볶이"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nCxXfE",
+    "productImageFile": "pr_261010_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_08.jpg",
+    "ingredientImageFile": "raw_261010_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_08.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 468,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "칠갑농산 우리밀 수제비, 300g, 3개",
+    "searchKeywords": [
+      "수제비",
+      "우리밀수제비",
+      "생수제비",
+      "수제비반죽"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nHTSlE",
+    "productImageFile": "pr_261010_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_09.jpg",
+    "ingredientImageFile": "raw_261010_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 469,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "면사랑 두툼하고 부드러운 생손칼국수 (냉장), 500g, 1개",
+    "searchKeywords": [
+      "칼국수",
+      "생칼국수",
+      "손칼국수",
+      "칼국수면"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nMEkw0",
+    "productImageFile": "pr_261010_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_10.jpg",
+    "ingredientImageFile": "raw_261010_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_10.jpg",
+    "countries": [
+      "호주",
+      "미국",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
