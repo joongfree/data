@@ -1808,7 +1808,7 @@
     "curation": [
       "저가공"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -5130,7 +5130,7 @@
     "countries": [
       "한국",
       "태국",
-      "키프로스"
+      "사이프러스"
     ],
     "rocket": true,
     "curation": [],
@@ -12746,6 +12746,900 @@
     "curation": [
       "저가공"
     ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 450,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "초록원 무농약딸기로 만든 딸기잼, 580g, 1개",
+    "searchKeywords": [
+      "무농약딸기잼",
+      "딸기잼",
+      "국산딸기잼",
+      "딸기쨈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn4EHZo4",
+    "productImageFile": "pr_261009_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_01.jpg",
+    "ingredientImageFile": "raw_261009_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 451,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "가림 제주 골드키위 과육잼, 1kg, 1개",
+    "searchKeywords": [
+      "키위잼",
+      "골드키위잼",
+      "제주키위잼",
+      "키위쨈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn4IErSK",
+    "productImageFile": "pr_261009_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_02.jpg",
+    "ingredientImageFile": "raw_261009_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 452,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "복숭아잼 국산 원료 과일잼, 1개, 280g",
+    "searchKeywords": [
+      "복숭아잼",
+      "국산복숭아잼",
+      "수제복숭아잼",
+      "복숭아쨈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn4NXXNI",
+    "productImageFile": "pr_261009_03.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_03.png",
+    "ingredientImageFile": "raw_261009_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 453,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "무농약 포도잼 국산 원료 과일잼 280g, 1개",
+    "searchKeywords": [
+      "포도잼",
+      "무농약포도잼",
+      "국산포도잼",
+      "포도쨈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn4SCkMe",
+    "productImageFile": "pr_261009_04.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_04.png",
+    "ingredientImageFile": "raw_261009_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 454,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "농부가 직접 만든 딸기잼 (딸기함량 70%) 무방무제 무첨가제 무색소, 580g, 1개",
+    "searchKeywords": [
+      "수제딸기잼",
+      "딸기잼",
+      "국산딸기잼",
+      "무첨가딸기잼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn4Xh8b6",
+    "productImageFile": "pr_261009_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_05.jpg",
+    "ingredientImageFile": "raw_261009_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 455,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "농협식품 딸기잼, 690g, 1개",
+    "searchKeywords": [
+      "딸기잼",
+      "국산딸기잼",
+      "딸기쨈",
+      "대용량딸기잼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn42NX7k",
+    "productImageFile": "pr_261009_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_06.jpg",
+    "ingredientImageFile": "raw_261009_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 456,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "맘스케이크 바나나빵 오리지널, 30g, 30개",
+    "searchKeywords": [
+      "바나나빵",
+      "우리밀바나나빵",
+      "바나나케이크",
+      "바나나맛빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn8806c8",
+    "productImageFile": "pr_261009_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_07.jpg",
+    "ingredientImageFile": "raw_261009_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_07.jpg",
+    "countries": [
+      "말레이시아",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 457,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "복음자리 사과잼, 620g, 1개",
+    "searchKeywords": [
+      "사과잼",
+      "국산사과잼",
+      "사과쨈",
+      "애플잼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn9e1gQe",
+    "productImageFile": "pr_261009_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_08.jpg",
+    "ingredientImageFile": "raw_261009_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_08.jpg",
+    "countries": [
+      "한국",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 458,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "곰곰 저칼로리 딸기잼, 320g, 1개",
+    "searchKeywords": [
+      "저칼로리딸기잼",
+      "저당딸기잼",
+      "알룰로스딸기잼",
+      "딸기잼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn9k3H7Q",
+    "productImageFile": "pr_261009_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_09.jpg",
+    "ingredientImageFile": "raw_261009_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_09.jpg",
+    "countries": [
+      "한국",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공",
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 459,
+    "show": true,
+    "checkDate": "2026-10-09",
+    "category": "베이커리/잼",
+    "name": "설탕대신 딸기잼, 240g, 2개",
+    "searchKeywords": [
+      "알룰로스딸기잼",
+      "저당딸기잼",
+      "저칼로리딸기잼",
+      "딸기잼"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hHjn9ptPKS",
+    "productImageFile": "pr_261009_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261009_10.jpg",
+    "ingredientImageFile": "raw_261009_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261009_11.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 460,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "설성목장 한우 사골 곰탕 (냉동), 1kg, 2개",
+    "searchKeywords": [
+      "사골곰탕",
+      "한우곰탕",
+      "사골국",
+      "곰국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jt6Zoq",
+    "productImageFile": "pr_261010_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_01.jpg",
+    "ingredientImageFile": "raw_261010_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 461,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "베이커리/잼",
+    "name": "네니아 우리밀 통팥찐빵 (냉동), 50g, 8개입, 1개",
+    "searchKeywords": [
+      "팥찐빵",
+      "찐빵",
+      "우리밀찐빵",
+      "단팥찐빵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jxUXue",
+    "productImageFile": "pr_261010_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_02.jpg",
+    "ingredientImageFile": "raw_261010_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_02.jpg",
+    "countries": [
+      "한국",
+      "태국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 462,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "네니아 우리밀 물만두 (냉동), 1kg, 1개",
+    "searchKeywords": [
+      "물만두",
+      "냉동만두",
+      "고기만두",
+      "우리밀만두"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jDead2",
+    "productImageFile": "pr_261010_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_03.jpg",
+    "ingredientImageFile": "raw_261010_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 463,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "담꽃 무가당 통팥죽 (냉동), 250g, 4개",
+    "searchKeywords": [
+      "팥죽",
+      "통팥죽",
+      "무설탕팥죽",
+      "냉동죽"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jIAw1I",
+    "productImageFile": "pr_261010_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_04.jpg",
+    "ingredientImageFile": "raw_261010_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 464,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "쪄옴 순현미 떡국떡 (냉동), 1kg, 3봉",
+    "searchKeywords": [
+      "떡국떡",
+      "현미떡국떡",
+      "현미떡",
+      "떡국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jMou7w",
+    "productImageFile": "pr_261010_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_05.jpg",
+    "ingredientImageFile": "raw_261010_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 465,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "오늘차림 한우곰탕 냉장, 500g, 3개",
+    "searchKeywords": [
+      "한우곰탕",
+      "곰탕",
+      "사골곰탕",
+      "곰국"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22jRHHRk",
+    "productImageFile": "pr_261010_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_06.jpg",
+    "ingredientImageFile": "raw_261010_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 466,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "생생 삼계탕 냉장, 1kg, 3개",
+    "searchKeywords": [
+      "삼계탕",
+      "냉장삼계탕",
+      "닭백숙",
+      "보양식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nxoIxg",
+    "productImageFile": "pr_261010_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_07.jpg",
+    "ingredientImageFile": "raw_261010_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 467,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "농협식품 우리쌀 떡볶이떡, 400g, 1개",
+    "searchKeywords": [
+      "떡볶이떡",
+      "쌀떡",
+      "쌀떡볶이떡",
+      "떡볶이"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nCxXfE",
+    "productImageFile": "pr_261010_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_08.jpg",
+    "ingredientImageFile": "raw_261010_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_08.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 468,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "칠갑농산 우리밀 수제비, 300g, 3개",
+    "searchKeywords": [
+      "수제비",
+      "우리밀수제비",
+      "생수제비",
+      "수제비반죽"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nHTSlE",
+    "productImageFile": "pr_261010_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_09.jpg",
+    "ingredientImageFile": "raw_261010_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 469,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "면사랑 두툼하고 부드러운 생손칼국수 (냉장), 500g, 1개",
+    "searchKeywords": [
+      "칼국수",
+      "생칼국수",
+      "손칼국수",
+      "칼국수면"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hI22nMEkw0",
+    "productImageFile": "pr_261010_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_10.jpg",
+    "ingredientImageFile": "raw_261010_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_10.jpg",
+    "countries": [
+      "호주",
+      "미국",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 470,
+    "show": true,
+    "checkDate": "2026-10-10",
+    "category": "간편식/냉동/냉장",
+    "name": "곰곰 우리쌀 통가래떡(냉동), 1kg, 1개입, 1개",
+    "searchKeywords": [
+      "가래떡",
+      "통가래떡",
+      "쌀떡",
+      "냉동가래떡"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hJdrDSH0Am",
+    "productImageFile": "pr_261010_11.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261010_11.png",
+    "ingredientImageFile": "raw_261010_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261010_11.jpg",
+    "countries": [
+      "한국",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 471,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "피움 무농약 인증 유러피안 샐러드 꾸러미, 1kg, 1개",
+    "searchKeywords": [
+      "유러피안샐러드",
+      "유럽상추",
+      "샐러드채소",
+      "무농약샐러드"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWffRk1Q",
+    "productImageFile": "pr_261011_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_01.jpg",
+    "ingredientImageFile": "raw_261011_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 472,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "신선함을 그대로 엘로우믹스 샐러드, 80g, 5팩",
+    "searchKeywords": [
+      "믹스샐러드",
+      "샐러드채소",
+      "야채믹스",
+      "혼합샐러드"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWflAy1k",
+    "productImageFile": "pr_261011_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_02.jpg",
+    "ingredientImageFile": "raw_261011_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 473,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "팜에이트 한끼 루꼴라 샐러드, 80g, 3개",
+    "searchKeywords": [
+      "루꼴라샐러드",
+      "루꼴라",
+      "샐러드채소",
+      "한끼샐러드"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWfpvHr2",
+    "productImageFile": "pr_261011_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_03.jpg",
+    "ingredientImageFile": "raw_261011_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 474,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "곰곰 원데이 샐러드 채소 3개입, 210g, 1봉",
+    "searchKeywords": [
+      "샐러드채소",
+      "혼합샐러드",
+      "야채믹스",
+      "소포장샐러드"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWfuXkjs",
+    "productImageFile": "pr_261011_04.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_04.png",
+    "ingredientImageFile": "raw_261011_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 475,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "샐러드용 양배추와 적채, 500g, 1개",
+    "searchKeywords": [
+      "양배추샐러드",
+      "양배추채",
+      "적채",
+      "양배추슬라이스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWfAYsCa",
+    "productImageFile": "pr_261011_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_05.jpg",
+    "ingredientImageFile": "raw_261011_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 476,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "동원 훈제연어 오리지널 (냉동), 180g, 2개",
+    "searchKeywords": [
+      "훈제연어",
+      "연어슬라이스",
+      "냉동훈제연어",
+      "스모크연어"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWfFOOhE",
+    "productImageFile": "pr_261011_06.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_06.png",
+    "ingredientImageFile": "raw_261011_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_06.jpg",
+    "countries": [
+      "칠레",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 477,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "소금집 잠봉 햄, 120g, 1팩",
+    "searchKeywords": [
+      "잠봉",
+      "잠봉햄",
+      "슬라이스햄",
+      "샌드위치햄"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWmV0CzY",
+    "productImageFile": "pr_261011_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_07.jpg",
+    "ingredientImageFile": "raw_261011_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_07.jpg",
+    "countries": [
+      "한국",
+      "스위스"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 478,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "참프레 동물복지 인증 닭가슴살 수비드 오리지널, 115g, 6개, 1개입",
+    "searchKeywords": [
+      "수비드닭가슴살",
+      "닭가슴살",
+      "동물복지닭가슴살",
+      "냉장닭가슴살"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWm1kg1s",
+    "productImageFile": "pr_261011_08.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_08.png",
+    "ingredientImageFile": "raw_261011_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_08.jpg",
+    "countries": [
+      "한국",
+      "스페인",
+      "사이프러스"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 479,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "복음자리 햄치즈 샌드위치 (냉동), 70g, 8개입, 1박스",
+    "searchKeywords": [
+      "햄치즈샌드위치",
+      "샌드위치",
+      "냉동샌드위치",
+      "햄치즈샌드"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hKHWm4Gdb2",
+    "productImageFile": "pr_261011_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_09.jpg",
+    "ingredientImageFile": "raw_261011_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_09.jpg",
+    "countries": [
+      "미국",
+      "캐나다",
+      "인도네시아",
+      "한국",
+      "호주",
+      "뉴질랜드"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": true,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 480,
+    "show": true,
+    "checkDate": "2026-10-11",
+    "category": "샐러드/델리",
+    "name": "샤르베티에 아질산 나트륨 무첨가 모르타델라, 100g, 5개",
+    "searchKeywords": [
+      "모르타델라",
+      "모르타델라햄",
+      "슬라이스햄",
+      "무첨가햄"
+    ],
+    "buyUrl": "https://www.coupang.com/vp/products/9153651138?itemId=27003097945",
+    "productImageFile": "pr_261011_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261011_10.jpg",
+    "ingredientImageFile": "raw_261011_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261011_10.jpg",
+    "countries": [
+      "한국",
+      "미국",
+      "독일"
+    ],
+    "rocket": true,
+    "curation": [],
     "advertisement": false,
     "certified": false,
     "reportCount": 0,
