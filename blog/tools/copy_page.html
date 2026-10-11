@@ -1,0 +1,97 @@
+<title>{{PAGE_TITLE}}</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Noto+Sans+KR:wght@400;700&display=swap">
+<style>
+/* Layout: a narrow work column — three copy blocks in the order you paste them into the editor */
+:root{
+  --bg:#F7F7FB; --panel:#FFFFFF; --ink:#2E414A; --muted:#6B7A82; --line:#E3E6EC;
+  --green:#20AF51; --green-ink:#FFFFFF; --done:#E7F6EC;
+  --display:"Gowun Dodum","Noto Sans KR",system-ui,sans-serif;
+  --body:"Noto Sans KR",system-ui,-apple-system,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141B1F; --panel:#1C252A; --ink:#E8EEF1; --muted:#9AA9B1; --line:#2C373D; --done:#173A26; color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#141B1F; --panel:#1C252A; --ink:#E8EEF1; --muted:#9AA9B1; --line:#2C373D; --done:#173A26; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);}
+.wrap{max-width:760px;margin:0 auto;padding:28px 16px 64px;display:flex;flex-direction:column;gap:20px}
+header h1{font-family:var(--display);font-size:24px;margin:0 0 6px;text-wrap:balance}
+header p{margin:0;color:var(--muted);font-size:14px;line-height:1.6}
+.block{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.label{font-size:12px;letter-spacing:.06em;color:var(--muted);font-weight:700}
+.label b{color:var(--green);margin-right:6px}
+.text{font-size:16px;line-height:1.6;word-break:keep-all;overflow-wrap:anywhere}
+button{font:inherit;font-size:14px;font-weight:700;border:0;border-radius:8px;padding:10px 16px;background:var(--green);color:var(--green-ink);cursor:pointer;min-width:120px}
+button:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+button.ok{background:var(--done);color:var(--green)}
+.paper{background:#FFFFFF;color:#333333;border-radius:8px;border:1px solid var(--line);padding:24px 20px;max-height:none;overflow-x:auto}
+.paper img{max-width:100%;height:auto}
+.note{font-size:13px;color:var(--muted);line-height:1.6;margin:0}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>{{PAGE_TITLE}}</h1>
+    <p>썸네일 이미지를 본문 맨 위에 먼저 올리고, 그 아래에 순서대로 붙여넣으면 돼요. 썸네일이 첫 사진이라 대표이미지로 자동 지정돼요.</p>
+  </header>
+
+  <section class="block">
+    <div class="row"><span class="label"><b>1</b>제목</span><button id="c-title" data-target="title">제목 복사</button></div>
+    <div class="text" id="title">{{TITLE}}</div>
+  </section>
+
+  <section class="block">
+    <div class="row"><span class="label"><b>2</b>본문 (이미지·링크 포함)</span><button id="c-post" data-target="post" data-rich="1">본문 복사</button></div>
+    <div class="paper" id="post">{{POST}}</div>
+  </section>
+
+  <section class="block">
+    <div class="row"><span class="label"><b>3</b>태그</span><button id="c-tags" data-target="tags">태그 복사</button></div>
+    <div class="text" id="tags">{{TAGS}}</div>
+    <p class="note">태그칸에 한 번에 붙여넣으면 # 기준으로 나뉘어 들어가요. 안 나뉘면 하나씩 넣어주세요.</p>
+  </section>
+</div>
+
+<script>
+function selectNode(el){
+  const r=document.createRange(); r.selectNodeContents(el);
+  const s=window.getSelection(); s.removeAllRanges(); s.addRange(r); return s;
+}
+function cdnHTML(el){
+  const c=el.cloneNode(true);
+  c.querySelectorAll("img[data-cdn]").forEach(i=>{i.setAttribute("src",i.dataset.cdn);i.removeAttribute("data-cdn");});
+  return c.innerHTML;
+}
+async function copyRich(el){
+  try{
+    if(window.ClipboardItem && navigator.clipboard && navigator.clipboard.write){
+      await navigator.clipboard.write([new ClipboardItem({
+        "text/html":new Blob([cdnHTML(el)],{type:"text/html"}),
+        "text/plain":new Blob([el.innerText],{type:"text/plain"})
+      })]); return true;
+    }
+  }catch(e){}
+  const imgs=[...el.querySelectorAll("img[data-cdn]")], keep=imgs.map(i=>i.src);
+  imgs.forEach(i=>i.src=i.dataset.cdn);
+  const s=selectNode(el); let ok=false;
+  try{ok=document.execCommand("copy");}catch(e){}
+  imgs.forEach((i,n)=>i.src=keep[n]);
+  if(ok) s.removeAllRanges();
+  return ok;
+}
+async function copyPlain(el){
+  try{await navigator.clipboard.writeText(el.innerText.trim()); return true;}catch(e){}
+  const s=selectNode(el); let ok=false;
+  try{ok=document.execCommand("copy");}catch(e){}
+  if(ok) s.removeAllRanges();
+  return ok;
+}
+document.querySelectorAll("button[data-target]").forEach(btn=>{
+  const orig=btn.textContent;
+  btn.addEventListener("click",async()=>{
+    const el=document.getElementById(btn.dataset.target);
+    const ok=btn.dataset.rich?await copyRich(el):await copyPlain(el);
+    if(ok){btn.textContent="복사됨";btn.classList.add("ok");setTimeout(()=>{btn.textContent=orig;btn.classList.remove("ok")},1800);}
+    else{selectNode(el);btn.textContent="선택됨, Ctrl+C";}
+  });
+});
+</script>
