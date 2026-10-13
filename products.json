@@ -14406,5 +14406,34 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 511,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "과자/간식",
+    "name": "해표 국산 맛밤, 70g, 6개",
+    "searchKeywords": [
+      "맛밤",
+      "군밤",
+      "깐밤",
+      "밤간식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hOILzItZsW",
+    "productImageFile": "pr_261013_11.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_11.jpg",
+    "ingredientImageFile": "raw_261013_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_11.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
