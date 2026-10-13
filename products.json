@@ -14131,5 +14131,280 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 501,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "곰곰 묵은지, 900g, 1개",
+    "searchKeywords": [
+      "묵은지",
+      "묵은김치",
+      "숙성김치",
+      "찌개용김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1Klx5ly8",
+    "productImageFile": "pr_261013_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_01.jpg",
+    "ingredientImageFile": "raw_261013_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 502,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "종가 썰어담은 갓김치, 500g, 1개",
+    "searchKeywords": [
+      "갓김치",
+      "썰은갓김치",
+      "한입갓김치",
+      "돌산갓김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KlDwdxI",
+    "productImageFile": "pr_261013_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_02.jpg",
+    "ingredientImageFile": "raw_261013_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 503,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "명인유정임 열무물김치, 1.5kg, 1개",
+    "searchKeywords": [
+      "열무물김치",
+      "열무 물김치",
+      "열무김치",
+      "물김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KlJVAho",
+    "productImageFile": "pr_261013_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_03.jpg",
+    "ingredientImageFile": "raw_261013_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 504,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "종가 담백한 나박김치, 1.2kg, 1개",
+    "searchKeywords": [
+      "나박김치",
+      "나박물김치",
+      "물김치",
+      "국물김치"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KlOpo0i",
+    "productImageFile": "pr_261013_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_04.jpg",
+    "ingredientImageFile": "raw_261013_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 505,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "신영식품 부추 겉절이, 1kg, 1개",
+    "searchKeywords": [
+      "부추김치",
+      "부추겉절이",
+      "정구지김치",
+      "부추무침"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KlTERr2",
+    "productImageFile": "pr_261013_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_05.jpg",
+    "ingredientImageFile": "raw_261013_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 506,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "농협식품 울릉도 명이나물, 300g, 1개",
+    "searchKeywords": [
+      "명이나물",
+      "명이장아찌",
+      "산마늘장아찌",
+      "명이절임"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KtJm1vM",
+    "productImageFile": "pr_261013_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_06.jpg",
+    "ingredientImageFile": "raw_261013_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_06.jpg",
+    "countries": [
+      "한국",
+      "인도",
+      "호주",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 507,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "권기옥 명인 웃말 콩자반, 225g, 1개",
+    "searchKeywords": [
+      "콩자반",
+      "검은콩조림",
+      "검정콩조림",
+      "콩조림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KtODZJc",
+    "productImageFile": "pr_261013_07.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_07.jpg",
+    "ingredientImageFile": "raw_261013_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_07.jpg",
+    "countries": [
+      "한국",
+      "인도"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 508,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "권기옥 명인 웃말 멸치볶음, 280g, 1개",
+    "searchKeywords": [
+      "멸치볶음",
+      "잔멸치볶음",
+      "멸치조림",
+      "멸치반찬"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KtUX5k4",
+    "productImageFile": "pr_261013_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_08.jpg",
+    "ingredientImageFile": "raw_261013_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_08.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 509,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "풀무원 찬마루 오이지, 500g, 1개",
+    "searchKeywords": [
+      "오이지",
+      "오이절임",
+      "오이장아찌",
+      "통오이지"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1KtYHmxg",
+    "productImageFile": "pr_261013_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_09.jpg",
+    "ingredientImageFile": "raw_261013_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_09.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 510,
+    "show": true,
+    "checkDate": "2026-10-13",
+    "category": "김치/반찬",
+    "name": "이금선명인 국산 어리굴젓 (냉동), 160g, 1개",
+    "searchKeywords": [
+      "어리굴젓",
+      "굴젓",
+      "굴젓갈",
+      "양념굴젓"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hN1Kt46JgW",
+    "productImageFile": "pr_261013_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261013_10.jpg",
+    "ingredientImageFile": "raw_261013_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261013_10.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
