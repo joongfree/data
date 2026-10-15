@@ -14431,7 +14431,7 @@
     "curation": [
       "무첨가"
     ],
-    "advertisement": true,
+    "advertisement": false,
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
@@ -14719,6 +14719,290 @@
     "rocket": true,
     "curation": [
       "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 522,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "샘표 국산콩 백일된장, 900g, 1개",
+    "searchKeywords": [
+      "된장",
+      "국산된장",
+      "국산콩된장",
+      "재래된장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixvqU57I",
+    "productImageFile": "pr_261015_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_01.jpg",
+    "ingredientImageFile": "raw_261015_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_01.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 523,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "김구원선생 장단콩으로 만든 청국장, 180g, 1개",
+    "searchKeywords": [
+      "청국장",
+      "국산청국장",
+      "생청국장",
+      "장단콩청국장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixvwjyVg",
+    "productImageFile": "pr_261015_02.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_02.jpg",
+    "ingredientImageFile": "raw_261015_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 524,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "산지한입 강원도 홍천 우리콩 막장 국산콩 100%, 1kg, 1개",
+    "searchKeywords": [
+      "막장",
+      "강원도막장",
+      "국산막장",
+      "보리막장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixvCivTM",
+    "productImageFile": "pr_261015_03.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_03.png",
+    "ingredientImageFile": "raw_261015_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [],
+    "advertisement": true,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 525,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "진미 우리쌀 춘장, 300g, 1개",
+    "searchKeywords": [
+      "춘장",
+      "우리쌀춘장",
+      "국산춘장",
+      "짜장춘장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixvIygZo",
+    "productImageFile": "pr_261015_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_04.jpg",
+    "ingredientImageFile": "raw_261015_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 526,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "사랑과정성 사랑담은 불고기랑갈비랑, 230g, 2개",
+    "searchKeywords": [
+      "불고기양념",
+      "갈비양념",
+      "소불고기양념",
+      "갈비찜양념"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixvM3TA5",
+    "productImageFile": "pr_261015_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_05.jpg",
+    "ingredientImageFile": "raw_261015_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 527,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "강경형제젓갈 국산 멸치액젓 원액 100%, 600g, 1개",
+    "searchKeywords": [
+      "멸치액젓",
+      "국산멸치액젓",
+      "멸치액젓원액",
+      "김장액젓"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixAiWiwm",
+    "productImageFile": "pr_261015_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_06.jpg",
+    "ingredientImageFile": "raw_261015_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 528,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "국산콩100% 고맙당 저당 맛간장, 210g, 1개",
+    "searchKeywords": [
+      "맛간장",
+      "저당맛간장",
+      "만능간장",
+      "국산콩간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixAokLjU",
+    "productImageFile": "pr_261015_07.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_07.png",
+    "ingredientImageFile": "raw_261015_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_07.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": false,
+    "curation": [
+      "저당"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 529,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "올가홀푸드 유기농 토마토 케첩, 355g, 1개",
+    "searchKeywords": [
+      "케첩",
+      "케찹",
+      "토마토케첩",
+      "유기농케첩"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixAt17am",
+    "productImageFile": "pr_261015_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_08.jpg",
+    "ingredientImageFile": "raw_261015_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_08.jpg",
+    "countries": [
+      "이탈리아",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 530,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "사랑과정성 사랑담은 만능간장소스, 230g, 2개",
+    "searchKeywords": [
+      "만능간장소스",
+      "간장소스",
+      "만능간장",
+      "요리간장"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixAXyYVg",
+    "productImageFile": "pr_261015_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_09.jpg",
+    "ingredientImageFile": "raw_261015_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 531,
+    "show": true,
+    "checkDate": "2026-10-15",
+    "category": "장/양념/소스",
+    "name": "고맙당 저당 불닭 소스, 180g, 1개",
+    "searchKeywords": [
+      "불닭소스",
+      "저당불닭소스",
+      "매운소스",
+      "불닭양념"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hRixA1dIOq",
+    "productImageFile": "pr_261015_10.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261015_10.png",
+    "ingredientImageFile": "raw_261015_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261015_10.jpg",
+    "countries": [
+      "한국",
+      "호주"
+    ],
+    "rocket": false,
+    "curation": [
+      "저당"
     ],
     "advertisement": false,
     "certified": false,
