@@ -15008,5 +15008,297 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 532,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "기름제로 국산 현미칩 과자, 60g, 5개",
+    "searchKeywords": [
+      "현미칩",
+      "현미과자",
+      "쌀과자",
+      "현미스낵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0ei90qw8",
+    "productImageFile": "pr_261016_01.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_01.png",
+    "ingredientImageFile": "raw_261016_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 533,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "기름제로 옥수수칩 과자, 60g, 5개",
+    "searchKeywords": [
+      "옥수수칩",
+      "콘칩",
+      "옥수수과자",
+      "구운옥수수칩"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0eje5AIe",
+    "productImageFile": "pr_261016_02.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_02.png",
+    "ingredientImageFile": "raw_261016_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_02.jpg",
+    "countries": [
+      "호주",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 534,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "올가홀푸드 순 고구마칩, 40g, 3개",
+    "searchKeywords": [
+      "고구마칩",
+      "고구마과자",
+      "순고구마칩",
+      "고구마스낵"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0ejkdKiy",
+    "productImageFile": "pr_261016_03.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_03.png",
+    "ingredientImageFile": "raw_261016_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_03.jpg",
+    "countries": [
+      "한국",
+      "태국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 535,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "풍심당 국내산 현미 뻥튀기, 100g, 2개",
+    "searchKeywords": [
+      "현미뻥튀기",
+      "뻥튀기",
+      "현미과자",
+      "쌀과자"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0ejo3aqy",
+    "productImageFile": "pr_261016_04.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_04.png",
+    "ingredientImageFile": "raw_261016_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_04.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 536,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "풍심당 국내산 옥수수 뻥튀기, 90g, 2개",
+    "searchKeywords": [
+      "옥수수뻥튀기",
+      "뻥튀기",
+      "옥수수과자",
+      "무설탕뻥튀기"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0ejupVJI",
+    "productImageFile": "pr_261016_05.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_05.png",
+    "ingredientImageFile": "raw_261016_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_05.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 537,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "자연트리 동결건조 국산 사과칩, 11g, 3개",
+    "searchKeywords": [
+      "사과칩",
+      "동결건조사과",
+      "건조사과",
+      "과일칩"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0enJhRqC",
+    "productImageFile": "pr_261016_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_06.jpg",
+    "ingredientImageFile": "raw_261016_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_06.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 538,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "생생대추 국산 대추칩 슬라이스, 40g, 2개",
+    "searchKeywords": [
+      "대추칩",
+      "대추슬라이스",
+      "건대추칩",
+      "말린대추"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0enPxhcW",
+    "productImageFile": "pr_261016_07.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_07.png",
+    "ingredientImageFile": "raw_261016_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 539,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "웰콩 서리태 볶음, 17g, 20개",
+    "searchKeywords": [
+      "서리태볶음",
+      "볶은서리태",
+      "볶은검은콩",
+      "콩간식"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0enVbyjQ",
+    "productImageFile": "pr_261016_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_08.jpg",
+    "ingredientImageFile": "raw_261016_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_08.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 540,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "고구마공장 아이스 군고구마 (냉동), 120g, 8개",
+    "searchKeywords": [
+      "군고구마",
+      "아이스군고구마",
+      "냉동군고구마",
+      "구운고구마"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0enZ0ORg",
+    "productImageFile": "pr_261016_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_09.jpg",
+    "ingredientImageFile": "raw_261016_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 541,
+    "show": true,
+    "checkDate": "2026-10-16",
+    "category": "과자/간식",
+    "name": "모랑모랑 촉촉 단호박 스틱, 20g, 10개",
+    "searchKeywords": [
+      "단호박스틱",
+      "고구마스틱",
+      "단호박말랭이",
+      "고구마말랭이"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hS0en6hmXQ",
+    "productImageFile": "pr_261016_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261016_10.jpg",
+    "ingredientImageFile": "raw_261016_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261016_10.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
