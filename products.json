@@ -15588,5 +15588,122 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 552,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "샐러드/델리",
+    "name": "목초육 베요타 이베리코 함량 96.8% 클린 카니프리 프리미엄 생 소시지, 210g, 1개",
+    "searchKeywords": [
+      "목초육 소시지",
+      "이베리코 소시지",
+      "수제 생소시지",
+      "키토 소시지"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUH0HJIZBQ",
+    "productImageFile": "pr_261017_11.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_11.png",
+    "ingredientImageFile": "raw_261017_11.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_11.jpg",
+    "countries": [
+      "호주",
+      "스페인",
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 553,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "수산/건어물",
+    "name": "해맑음 the 푸짐한 국내산 자포니카 토막 민물장어 (냉동), 500g, 1개",
+    "searchKeywords": [
+      "민물장어",
+      "자포니카 장어",
+      "국내산 장어",
+      "손질 장어"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUH0HOEXIq",
+    "productImageFile": "pr_261017_12.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_12.jpg",
+    "ingredientImageFile": "raw_261017_12.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_12.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 554,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "과자/간식",
+    "name": "덴티스테 민트볼, 2g, 2개",
+    "searchKeywords": [
+      "민트볼",
+      "구강청정 캡슐",
+      "입냄새 캡슐",
+      "브레스 민트"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUH0HTZ7VA",
+    "productImageFile": "pr_261017_13.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_13.png",
+    "ingredientImageFile": "raw_261017_13.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_13.jpg",
+    "countries": [
+      "말레이시아",
+      "미국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 555,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "장/양념/소스",
+    "name": "오뚜기 데리야끼 소스, 345g, 1개",
+    "searchKeywords": [
+      "데리야끼 소스",
+      "데리야키소스",
+      "꼬치 소스",
+      "일식 소스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUH0H0bDPg",
+    "productImageFile": "pr_261017_14.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_14.jpg",
+    "ingredientImageFile": "raw_261017_14.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_14.jpg",
+    "countries": [
+      "인도",
+      "호주",
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
