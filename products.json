@@ -15300,5 +15300,293 @@
     "certified": false,
     "reportCount": 0,
     "weeklyViews": 0
+  },
+  {
+    "id": 542,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "하늘보리, 500ml, 20개",
+    "searchKeywords": [
+      "보리차",
+      "보리차음료",
+      "국산보리차",
+      "무카페인차"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmsTeIgu",
+    "productImageFile": "pr_261017_01.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_01.jpg",
+    "ingredientImageFile": "raw_261017_01.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_01.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 543,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "안동사과즙 저온살균 무첨가 사과100착즙 자꾸먹고싶은안동사과즙, 100ml, 50개",
+    "searchKeywords": [
+      "사과즙",
+      "국산사과즙",
+      "착즙사과즙",
+      "사과주스"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmtc23JA",
+    "productImageFile": "pr_261017_02.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_02.png",
+    "ingredientImageFile": "raw_261017_02.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_02.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 544,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "오아시스 국내산 양배추즙, 100ml, 30개",
+    "searchKeywords": [
+      "양배추즙",
+      "양배추주스",
+      "국산양배추즙",
+      "양배추진액"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmtiIW0y",
+    "productImageFile": "pr_261017_03.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_03.jpg",
+    "ingredientImageFile": "raw_261017_03.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_03.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 545,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "로엘 프리미엄 더치커피 브라질, 1L, 1개입, 1개",
+    "searchKeywords": [
+      "더치커피",
+      "콜드브루",
+      "콜드브루원액",
+      "더치커피원액"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmtnTojs",
+    "productImageFile": "pr_261017_04.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_04.jpg",
+    "ingredientImageFile": "raw_261017_04.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_04.jpg",
+    "countries": [
+      "브라질"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 546,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "곰곰 예가체프 드립백 커피, 8g, 36개입, 1개",
+    "searchKeywords": [
+      "드립백커피",
+      "예가체프",
+      "드립커피",
+      "에티오피아커피"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmtFIxR7",
+    "productImageFile": "pr_261017_05.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_05.jpg",
+    "ingredientImageFile": "raw_261017_05.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_05.jpg",
+    "countries": [
+      "에티오피아"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 547,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "제임스티스푼 콜롬비아 드립커피, 8g, 36개입, 1개",
+    "searchKeywords": [
+      "드립백커피",
+      "콜롬비아커피",
+      "드립커피",
+      "핸드드립커피"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmxQY6wu",
+    "productImageFile": "pr_261017_06.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_06.jpg",
+    "ingredientImageFile": "raw_261017_06.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_06.jpg",
+    "countries": [
+      "콜롬비아"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 548,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "서울우유 국산원유100% 무가염 버터 450g, 1개",
+    "searchKeywords": [
+      "무염버터",
+      "무가염버터",
+      "국산버터",
+      "베이킹버터"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmxVY0DQ",
+    "productImageFile": "pr_261017_07.png",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_07.png",
+    "ingredientImageFile": "raw_261017_07.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_07.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": false,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 549,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "임실치즈 자연치즈 블록, 500g, 1개입, 1개",
+    "searchKeywords": [
+      "자연치즈",
+      "모짜렐라치즈",
+      "피자치즈",
+      "블록치즈"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmx1IEcS",
+    "productImageFile": "pr_261017_08.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_08.jpg",
+    "ingredientImageFile": "raw_261017_08.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_08.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "저가공"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 550,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "파스퇴르 우유 100% 생크림, 250ml, 1개",
+    "searchKeywords": [
+      "생크림",
+      "동물성생크림",
+      "휘핑크림",
+      "우유생크림"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmyfhOOC",
+    "productImageFile": "pr_261017_09.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_09.jpg",
+    "ingredientImageFile": "raw_261017_09.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_09.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
+  },
+  {
+    "id": 551,
+    "show": true,
+    "checkDate": "2026-10-17",
+    "category": "음료/커피/유제품",
+    "name": "상하목장 유기농 우유, 200ml, 24개",
+    "searchKeywords": [
+      "유기농우유",
+      "멸균우유",
+      "흰우유",
+      "소용량우유"
+    ],
+    "buyUrl": "https://link.coupang.com/a/hUFmyjmZwW",
+    "productImageFile": "pr_261017_10.jpg",
+    "productImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Product/pr_261017_10.jpg",
+    "ingredientImageFile": "raw_261017_10.jpg",
+    "ingredientImageUrl": "https://cdn.jsdelivr.net/gh/joongfree/data@main/DB_img/Source/raw_261017_10.jpg",
+    "countries": [
+      "한국"
+    ],
+    "rocket": true,
+    "curation": [
+      "무첨가"
+    ],
+    "advertisement": false,
+    "certified": false,
+    "reportCount": 0,
+    "weeklyViews": 0
   }
 ]
